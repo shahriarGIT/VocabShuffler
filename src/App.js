@@ -1,23 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { FcGenericSortingAsc, FcTimeline } from "react-icons/fc";
+import { IoMdResize } from "react-icons/io";
+import Home from "./pages/Home";
+import Layout from "./container/ui/Layout";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Layout>
+        <h1>hey</h1>
+      </Layout>
     </div>
   );
 }
