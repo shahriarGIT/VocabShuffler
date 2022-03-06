@@ -1,0 +1,16 @@
+.list__container {
+  padding-top: 5rem;
+  background-color: wheat;
+
+  border: 1px solid red;
+  height: 100vh;
+  position: relative;
+}
+
+.curve__up {
+}
+
+.curve__down {
+  position: absolute;
+  bottom: 0;
+}

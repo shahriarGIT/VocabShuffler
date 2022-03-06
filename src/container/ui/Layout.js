@@ -8,8 +8,12 @@ const Layout = (props) => {
 
   return (
     <Fragment>
-      <Navigation />
-      <main>
+      <Navigation
+        hideMenu={props.hideMenu}
+        showMenu={props.showMenu}
+        menuStatus={props.menuStatus}
+      />
+      <main onClick={props.hideMenu}>
         <div>{props.children}</div>
       </main>
     </Fragment>

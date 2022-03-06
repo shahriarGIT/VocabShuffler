@@ -1,0 +1,46 @@
+.container__nav {
+  height: 20rem;
+  width: 15rem;
+  position: absolute;
+  z-index: 10;
+  right: 5rem;
+  top: 5rem;
+
+  /* ff 3.6+ */
+  background: -moz-linear-gradient(
+    185deg,
+    rgba(99, 140, 245, 1) 0%,
+    rgba(10, 211, 196, 1) 95%
+  );
+
+  /* safari 5.1+,chrome 10+ */
+  background: -webkit-linear-gradient(
+    185deg,
+    rgba(99, 140, 245, 1) 0%,
+    rgba(10, 211, 196, 1) 95%
+  );
+
+  /* opera 11.10+ */
+  background: -o-linear-gradient(
+    185deg,
+    rgba(99, 140, 245, 1) 0%,
+    rgba(10, 211, 196, 1) 95%
+  );
+
+  /* ie 6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0AD3C4', endColorstr='#638CF5', GradientType=1 );
+
+  /* ie 10+ */
+  background: -ms-linear-gradient(
+    185deg,
+    rgba(99, 140, 245, 1) 0%,
+    rgba(10, 211, 196, 1) 95%
+  );
+
+  /* global 94%+ browsers support */
+  background: linear-gradient(
+    185deg,
+    rgba(99, 140, 245, 1) 0%,
+    rgba(10, 211, 196, 1) 95%
+  );
+}

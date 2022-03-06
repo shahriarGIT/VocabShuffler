@@ -1,9 +1,140 @@
+.nav__container {
+  display: flex;
+}
+
 .nav {
-  background-color: var(--navbar-bg);
+  /* background-color: var(--navbar-bg); */
   display: flex;
   padding: 1.5rem;
   justify-content: space-between;
-  align-items: center;
+
+  position: fixed;
+  width: 100vw;
+  z-index: 100;
+
+  /*
+ 
+  background: -moz-linear-gradient(
+    358deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+
+
+  background: -webkit-linear-gradient(
+    358deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+
+  background: -o-linear-gradient(
+    358deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+
+
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0AEBD9', endColorstr='#648EF5', GradientType=1 );
+
+  background: -ms-linear-gradient(
+    358deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+
+
+  background: linear-gradient(
+    358deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+
+  */
+
+  /* background: -moz-linear-gradient(
+    179deg,
+    rgba(140, 140, 211, 1) 0%,
+    rgba(109, 174, 198, 1) 50%,
+    rgba(241, 137, 241, 1) 100%
+  );
+
+
+  background: -webkit-linear-gradient(
+    179deg,
+    rgba(140, 140, 211, 1) 0%,
+    rgba(109, 174, 198, 1) 50%,
+    rgba(241, 137, 241, 1) 100%
+  );
+
+
+  background: -o-linear-gradient(
+    179deg,
+    rgba(140, 140, 211, 1) 0%,
+    rgba(109, 174, 198, 1) 50%,
+    rgba(241, 137, 241, 1) 100%
+  );
+
+
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F189F1', endColorstr='#8C8CD3', GradientType=1 );
+
+
+  background: -ms-linear-gradient(
+    179deg,
+    rgba(140, 140, 211, 1) 0%,
+    rgba(109, 174, 198, 1) 50%,
+    rgba(241, 137, 241, 1) 100%
+  );
+
+ 
+  background: linear-gradient(
+    179deg,
+    rgba(140, 140, 211, 1) 0%,
+    rgba(109, 174, 198, 1) 50%,
+    rgba(241, 137, 241, 1) 100%
+  ); */
+
+  /* ff 3.6+ */
+  background: -moz-linear-gradient(
+    22deg,
+    rgba(137, 44, 220, 1) 64%,
+    rgba(8, 211, 195, 1) 100%
+  );
+
+  /* safari 5.1+,chrome 10+ */
+  background: -webkit-linear-gradient(
+    22deg,
+    rgba(137, 44, 220, 1) 64%,
+    rgba(8, 211, 195, 1) 100%
+  );
+
+  /* opera 11.10+ */
+  background: -o-linear-gradient(
+    22deg,
+    rgba(137, 44, 220, 1) 64%,
+    rgba(8, 211, 195, 1) 100%
+  );
+
+  /* ie 6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#892CDC', endColorstr='#08D3C3', GradientType=1 );
+
+  /* ie 10+ */
+  background: -ms-linear-gradient(
+    22deg,
+    rgba(137, 44, 220, 1) 64%,
+    rgba(8, 211, 195, 1) 100%
+  );
+
+  /* global 94%+ browsers support */
+  background: linear-gradient(
+    22deg,
+    rgba(137, 44, 220, 1) 64%,
+    rgba(8, 211, 195, 1) 100%
+  );
 }
 
 .nav__logo a {
@@ -76,14 +207,18 @@
   }
 
   .nav__button {
-    display: block;
+    display: flex;
+    position: absolute;
+    z-index: 200;
+    display: inline-block;
     font-size: 1.8rem;
-    background-color: var(--navbar-bg);
+    /* background-color: var(--navbar-bg); */
     border-style: none;
     color: white;
-    margin-right: 4rem;
-    margin-top: 0rem;
-    justify-content: center;
+    right: 10rem;
+    top: 1.5rem;
+
+    align-items: center;
   }
 
   .nav__button:hover {
@@ -97,5 +232,35 @@
 
   .nav__button:hover .nav__button__logo {
     transform: rotate(90deg);
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .nav__logo a {
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: #fff;
+    margin-left: 2rem;
+    text-decoration: none;
+  }
+
+  .nav__item {
+    display: none;
+  }
+
+  .nav__button {
+    display: flex;
+    position: absolute;
+    z-index: 200;
+    display: inline-block;
+    font-size: 1.8rem;
+    /* background-color: var(--navbar-bg); */
+    border-style: none;
+    color: white;
+    right: 10rem;
+    top: 1.4rem;
+
+    align-items: center;
   }
 }
