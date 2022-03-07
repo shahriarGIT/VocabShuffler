@@ -2,17 +2,32 @@ import * as vocabActionTypes from "./vocabActionTypes";
 
 const INITIAL_STATE = {
   vocab: [],
+  vocabLoading: false,
   error: "",
   start: false,
   arrayCounter: 0,
-  vocabLoading: true,
 };
 
-export const vocabReducer = (state = INITIAL_STATE, action) => {
+const VOCABREDUCER = (state = INITIAL_STATE, action) => {
   switch (action.type) {
-    case vocabActionTypes.LOAD_VOCAB:
-      return {};
+    case vocabActionTypes.FETCH_VOCAB_SUCCESS:
+      return {
+        ...action.payload,
+        vocab: action.payload,
+      };
+    case vocabActionTypes.FETCH_VOCAB_FAILED:
+      return {
+        ...action.payload,
+        error: action.payload,
+      };
+    case vocabActionTypes.FETCH_VOCAB_LOADING:
+      return {
+        ...action.payload,
+        vocabLoading: action.payload,
+      };
     default:
       return state;
   }
 };
+
+export default VOCABREDUCER;

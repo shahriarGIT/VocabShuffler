@@ -1,0 +1,36 @@
+.item__container {
+  border: 1px solid black;
+  border-radius: 1rem;
+  width: 60%;
+
+  margin: 1rem auto;
+  display: flex;
+  padding: 1rem 0 1rem 2rem;
+  word-wrap: break-word;
+  align-items: center;
+  position: relative;
+
+  -webkit-box-shadow: 3px 6px 12px -3px rgba(0, 0, 0, 0.58);
+  -moz-box-shadow: 3px 6px 12px -3px rgba(0, 0, 0, 0.58);
+  box-shadow: 3px 6px 12px -3px rgba(0, 0, 0, 0.58);
+
+  /* text-align: left; */
+}
+
+.item__text {
+  max-width: 90%;
+  font-size: 1.4rem;
+}
+
+.btn_container {
+  position: absolute;
+  right: 0;
+  top: -1px;
+}
+
+.fvt__button {
+  border: 0;
+  background-color: transparent;
+  width: 3rem;
+  height: 3rem;
+}

@@ -1,10 +1,11 @@
 .list__container {
-  padding-top: 5rem;
-  background-color: wheat;
+  padding-top: 6rem;
+  background-color: white;
 
   border: 1px solid red;
   height: 100vh;
   position: relative;
+  text-align: center;
 }
 
 .curve__up {
