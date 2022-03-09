@@ -1,0 +1,23 @@
+.container__div {
+  margin-top: 5rem;
+  position: relative;
+}
+
+.clip__image {
+  position: fixed;
+  width: 20%;
+  bottom: 0rem;
+  left: 0;
+}
+
+.man__image {
+  position: fixed;
+  width: 22%;
+  top: 5rem;
+  right: 0;
+}
+
+.container__headline {
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}

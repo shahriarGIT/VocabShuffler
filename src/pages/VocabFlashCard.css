@@ -1,0 +1,515 @@
+.container__div {
+  text-align: center;
+  margin-top: 7rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.navigate__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 0.5rem;
+  /* padding: 0rem; */
+  padding: 1.7rem 3rem;
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+  width: 27rem;
+
+  -webkit-box-shadow: 1px 5px 12px -3px rgba(0, 0, 0, 0.58);
+  -moz-box-shadow: 1px 5px 12px -3px rgba(0, 0, 0, 0.58);
+  box-shadow: 1px 5px 12px -3px rgba(0, 0, 0, 0.58);
+
+  animation: navigationBar 0.7s ease;
+}
+
+@keyframes navigationBar {
+  0% {
+    transform: translateY(-10rem);
+  }
+  100% {
+    transform: translateY(0rem);
+  }
+}
+
+.vocab__card {
+  width: 80%;
+  border-radius: 0.3rem;
+  overflow: hidden;
+  -webkit-box-shadow: 2px 5px 12px -3px rgba(0, 0, 0, 0.58);
+  -moz-box-shadow: 2px 5px 12px -3px rgba(0, 0, 0, 0.58);
+  box-shadow: 2px 5px 12px -3px rgba(0, 0, 0, 0.58);
+
+  animation: vocabCardAnimate 0.7s ease;
+}
+
+@keyframes vocabCardAnimate {
+  0% {
+    transform: translateY(101vh);
+  }
+  100% {
+    transform: translateY(0r);
+  }
+}
+
+.vocab--card--animateout {
+  animation: vocabCardAnimateOut 0.7s ease;
+}
+
+@keyframes vocabCardAnimateOut {
+  0% {
+    transform: translateY(0vh);
+  }
+  100% {
+    transform: translateY(101vh);
+  }
+}
+
+.vocab__card__heading {
+  background-color: rgb(104, 169, 245);
+  font-size: 1.8rem;
+  font-weight: 500;
+  padding: 0.6rem 1rem;
+}
+
+.vocab__card__body {
+  font-size: 1.8rem;
+  font-weight: 500;
+  padding: 1.5rem 1rem;
+
+  /* ff 3.6+ */
+  background: -moz-linear-gradient(
+    167deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+
+  /* safari 5.1+,chrome 10+ */
+  background: -webkit-linear-gradient(
+    167deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+
+  /* opera 11.10+ */
+  background: -o-linear-gradient(
+    167deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+
+  /* ie 6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#648EF5', endColorstr='#0AEBD9', GradientType=1 );
+
+  /* ie 10+ */
+  background: -ms-linear-gradient(
+    167deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+
+  /* global 94%+ browsers support */
+  background: linear-gradient(
+    167deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+}
+
+.vocab__card__body > div {
+  margin: 0.2rem;
+}
+
+.vocab__card__button {
+  display: flex;
+  gap: 0.1rem;
+}
+
+.vocab__card__button > button {
+  border: none;
+  border-radius: 0rem;
+  width: 100%;
+  margin-right: 0rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  background-color: #666fe7;
+}
+
+.vocab__next__button {
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.7rem 1.8rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-right: 2rem;
+}
+
+.vocab__previous__button {
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.7rem 1.8rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-right: 2rem;
+}
+
+.vocab__card__button button:hover {
+  background-color: #5d66f0;
+  color: white;
+}
+
+.vocab__card__button button:active {
+  background-color: #4651e0;
+}
+
+.start__button {
+  cursor: pointer;
+  border: none;
+  border-radius: 0.5rem;
+  /* padding: 0.7rem 1.8rem; */
+  padding: 4% 6%;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-right: 2rem;
+  background-color: rgb(137, 37, 231);
+  color: white;
+}
+
+.end__button {
+  cursor: pointer;
+  border: none;
+  border-radius: 0.5rem;
+  /* padding: 0.7rem 1.8rem; */
+  padding: 4% 6%;
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-right: 2rem;
+  background-color: rgb(233, 24, 59);
+  color: white;
+}
+
+.start__button:active,
+.end__button:active {
+  opacity: 0.6;
+}
+
+.start__button:hover,
+.end__button:hover {
+  opacity: 0.9;
+}
+
+.toggle_text {
+  margin-left: 0.5rem;
+  font-size: 1.3rem;
+}
+
+/* Toggle button */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+input:checked + .slider {
+  /* background-color: #2196f3; */
+
+  /* ff 3.6+ */
+  background: -moz-linear-gradient(
+    167deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+
+  /* safari 5.1+,chrome 10+ */
+  background: -webkit-linear-gradient(
+    167deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+
+  /* opera 11.10+ */
+  background: -o-linear-gradient(
+    167deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+
+  /* ie 6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#648EF5', endColorstr='#0AEBD9', GradientType=1 );
+
+  /* ie 10+ */
+  background: -ms-linear-gradient(
+    167deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+
+  /* global 94%+ browsers support */
+  background: linear-gradient(
+    167deg,
+    rgba(10, 235, 217, 1) 0%,
+    rgba(108, 198, 190, 1) 46%,
+    rgba(100, 142, 245, 1) 100%
+  );
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196f3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.vocab__card__word {
+  margin-bottom: 0.8rem;
+}
+
+.vocab__card__hover {
+  margin-bottom: 0.8rem;
+}
+
+.vocab__card__meaning {
+  visibility: hidden;
+}
+
+.vocab--card--meaning {
+  visibility: visible;
+}
+
+@media screen and (max-width: 550px) {
+  .vocab__card__heading {
+    font-size: 6vw;
+  }
+
+  .vocab__card__word {
+    font-size: 6vw;
+    margin-bottom: 0.8rem;
+  }
+
+  .vocab__card__hover {
+    font-size: 5vw;
+    margin-bottom: 0.8rem;
+  }
+  .vocab__card__meaning {
+    font-size: 6vw;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .navigate__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* min-width: 20rem;
+    min-height: 6rem; */
+    width: 80%;
+    border-radius: 0.5rem;
+    padding: 1rem 1rem;
+    margin-bottom: 4rem;
+
+    -webkit-box-shadow: 1px 5px 12px -3px rgba(0, 0, 0, 0.58);
+    -moz-box-shadow: 1px 5px 12px -3px rgba(0, 0, 0, 0.58);
+    box-shadow: 1px 5px 12px -3px rgba(0, 0, 0, 0.58);
+
+    animation: navigationBar 0.7s ease;
+  }
+
+  .start__button {
+    border: none;
+    border-radius: 0.5rem;
+    /* padding: 0.7rem 1.8rem; */
+    padding: 4% 6%;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-right: 1rem;
+    background-color: rgb(137, 37, 231);
+    color: white;
+  }
+
+  .end__button {
+    border: none;
+    border-radius: 0.5rem;
+    /* padding: 0.7rem 1.8rem; */
+    padding: 4% 6%;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-right: 1rem;
+    background-color: rgb(233, 24, 59);
+    color: white;
+  }
+
+  .switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+    margin-right: 0.4rem;
+  }
+
+  .toggle_text {
+    margin-left: 0rem;
+  }
+}
+
+@media screen and (max-width: 490px) {
+  .navigate__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* min-width: 20rem;
+    min-height: 6rem; */
+    width: 80%;
+    border-radius: 0.5rem;
+    padding: 1.5rem 2rem;
+    margin-bottom: 4rem;
+
+    -webkit-box-shadow: 1px 5px 12px -3px rgba(0, 0, 0, 0.58);
+    -moz-box-shadow: 1px 5px 12px -3px rgba(0, 0, 0, 0.58);
+    box-shadow: 1px 5px 12px -3px rgba(0, 0, 0, 0.58);
+
+    animation: navigationBar 0.7s ease;
+  }
+
+  .start__button {
+    border: none;
+    border-radius: 0.5rem;
+    /* padding: 0.4rem 0.8rem; */
+    padding: 4% 6%;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-right: 0rem;
+    background-color: rgb(137, 37, 231);
+    color: white;
+  }
+
+  .end__button {
+    border: none;
+    border-radius: 0.5rem;
+    /* padding: 0.7rem 1.8rem; */
+    padding: 4% 6%;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-right: 0rem;
+    background-color: rgb(233, 24, 59);
+    color: white;
+  }
+
+  .toggle_text {
+    margin-left: 0.1rem;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .navigate__container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /* min-width: 20rem;
+    min-height: 6rem; */
+    width: 65%;
+    border-radius: 0.5rem;
+    padding: 1rem 1rem;
+    margin-bottom: 3rem;
+
+    -webkit-box-shadow: 1px 5px 12px -3px rgba(0, 0, 0, 0.58);
+    -moz-box-shadow: 1px 5px 12px -3px rgba(0, 0, 0, 0.58);
+    box-shadow: 1px 5px 12px -3px rgba(0, 0, 0, 0.58);
+
+    animation: navigationBar 0.7s ease;
+  }
+
+  .start__button {
+    border: none;
+    border-radius: 0.5rem;
+    /* padding: 0.7rem 1.8rem; */
+    padding: 5% 6%;
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-right: 0.4rem;
+    margin-bottom: 1rem;
+    background-color: rgb(137, 37, 231);
+    color: white;
+  }
+
+  .end__button {
+    border: none;
+    border-radius: 0.5rem;
+    /* padding: 0.7rem 1.8rem; */
+    padding: 5% 6%;
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-right: 0.2rem;
+    margin-bottom: 1rem;
+    background-color: rgb(233, 24, 59);
+    color: white;
+  }
+
+  .switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+
+  .toggle_text {
+    margin-left: 0rem;
+  }
+}

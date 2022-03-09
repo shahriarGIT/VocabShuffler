@@ -36,7 +36,7 @@ const Navigation = (props) => {
               </NavLink>
             </li>
             <li className="list__item">
-              <NavLink className="nav__item" to="/Favourite-Vocab">
+              <NavLink className="nav__item" to="/Favorite-Vocab">
                 Fvt Vocab
               </NavLink>
             </li>

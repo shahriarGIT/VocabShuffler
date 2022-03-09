@@ -2,16 +2,30 @@
   padding-top: 6rem;
   background-color: white;
 
-  border: 1px solid red;
   height: 100vh;
   position: relative;
   text-align: center;
+  background-repeat: repeat;
 }
 
-.curve__up {
+.list_t_img {
+  position: fixed;
+  width: 22%;
+  top: 5rem;
+  right: 0;
 }
 
-.curve__down {
-  position: absolute;
-  bottom: 0;
+.list_t_img:hover {
+  transform: rotate(5deg);
+}
+
+.list_pencil_img {
+  position: fixed;
+  width: 23%;
+  top: 45%;
+  left: 0;
+}
+
+.list_pencil_img:hover {
+  transform: scale(1.1);
 }

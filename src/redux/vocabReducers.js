@@ -12,18 +12,32 @@ const VOCABREDUCER = (state = INITIAL_STATE, action) => {
   switch (action.type) {
     case vocabActionTypes.FETCH_VOCAB_SUCCESS:
       return {
-        ...action.payload,
+        ...state,
         vocab: action.payload,
       };
     case vocabActionTypes.FETCH_VOCAB_FAILED:
       return {
-        ...action.payload,
+        ...state,
         error: action.payload,
+        start: false,
       };
     case vocabActionTypes.FETCH_VOCAB_LOADING:
       return {
-        ...action.payload,
+        ...state,
         vocabLoading: action.payload,
+        start: false,
+      };
+
+    case vocabActionTypes.START_FLASHCARD:
+      return {
+        ...state,
+        start: true,
+      };
+
+    case vocabActionTypes.END_FLASHCARD:
+      return {
+        ...state,
+        start: false,
       };
     default:
       return state;

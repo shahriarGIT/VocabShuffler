@@ -7,6 +7,8 @@ import {
   collection,
   onSnapshot,
   getDocs,
+  query,
+  orderBy,
 } from "firebase/firestore";
 
 import { firebaseConfig } from "../utils/config.js";
@@ -23,8 +25,6 @@ import { firebaseConfig } from "../utils/config.js";
 initializeApp(firebaseConfig);
 
 const db = getFirestore();
-
-const vocabRef = collection(db, "vocabs");
 
 export const fetchVocabLoading = (status) => {
   return {
@@ -47,26 +47,44 @@ export const fetchVocabFailed = (error) => {
   };
 };
 
-export const getV = () => {};
+const vocabRef = collection(db, "vocabs");
+
+const vocabAscendingQuery = query(vocabRef, orderBy("meaning"));
 
 export const fetchVocabs = () => {
   return (dispatch) => {
     dispatch(fetchVocabLoading(true));
 
-    getDocs(vocabRef)
+    getDocs(vocabAscendingQuery)
       .then((snapshot) => {
         dispatch(fetchVocabLoading(false));
 
         const vocabs = [];
         snapshot.docs.forEach((doc) => {
+          // vocabs.push({ id: doc.id, ...doc.data() });
+          // vocabs.push({ doc.data()});
+
           vocabs.push({ id: doc.id, ...doc.data() });
+          //console.log(vocabs);
         });
         dispatch(fetchVocabSuccess(vocabs));
-        console.log(vocabs);
+        //console.log(vocabs, "from action craetors");
         // console.log(snapshot.docs);
       })
       .catch((error) => {
         dispatch(fetchVocabFailed(error));
       });
+  };
+};
+
+export const startFlashCard = () => {
+  return {
+    type: actionTypes.START_FLASHCARD,
+  };
+};
+
+export const endFlashCard = () => {
+  return {
+    type: actionTypes.END_FLASHCARD,
   };
 };
