@@ -47,8 +47,6 @@ const VocabFlashCard = () => {
   //shuffleArray(arr);
   console.log(counter);
 
-  swap(items.vocab);
-
   const toggleTextHandler = () => {
     setToggleText((state) => (state === "ON" ? "OFF" : "ON"));
   };
@@ -80,6 +78,8 @@ const VocabFlashCard = () => {
   };
 
   const endtHandler = () => {
+    swap(items.vocab);
+
     document
       .querySelector(".vocab__card")
       .classList.add("vocab--card--animateout");

@@ -1,6 +1,6 @@
 import { NavLink, Link } from "react-router-dom";
 import MobileNav from "./MobileNav.js";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { FcGenericSortingAsc, FcTimeline } from "react-icons/fc";
 import { IoMdResize } from "react-icons/io";
 
@@ -42,13 +42,13 @@ const Navigation = (props) => {
             </li>
           </ul>
         </nav>
-        <a className="nav__button" onClick={props.showMenu}>
+        <button className="nav__button" onClick={props.showMenu}>
           <IoMdResize className="nav__button__logo" />
           <span className="nav__button__text">Menu</span>
-        </a>
+        </button>
       </div>
 
-      {props.menuStatus && <MobileNav />}
+      {props.menuStatus && <MobileNav hideMenu={props.hideMenu} />}
     </header>
   );
 };
