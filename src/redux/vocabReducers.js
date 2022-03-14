@@ -39,6 +39,31 @@ const VOCABREDUCER = (state = INITIAL_STATE, action) => {
         ...state,
         start: false,
       };
+
+    case vocabActionTypes.ADD_FVT_VOCAB: {
+      const vocabIndex = state.vocab.findIndex(
+        (item) => item.id === action.payload
+      );
+      const newVocabs = [...state.vocab];
+      newVocabs[vocabIndex].fvt = true;
+      return {
+        ...state,
+        vocab: newVocabs,
+      };
+    }
+
+    case vocabActionTypes.REMOVE_FVT_VOCAB: {
+      const vocabIndex = state.vocab.findIndex(
+        (item) => item.id === action.payload
+      );
+      const newVocabs = [...state.vocab];
+      newVocabs[vocabIndex].fvt = false;
+      return {
+        ...state,
+        vocab: newVocabs,
+      };
+    }
+
     default:
       return state;
   }

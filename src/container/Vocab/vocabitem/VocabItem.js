@@ -3,8 +3,17 @@ import { AiOutlineHeart } from "react-icons/ai";
 import { FiHeart } from "react-icons/fi";
 
 const VocabItem = (props) => {
-  const fvtVocab = () => {
-    alert("Fvt");
+  // const fvtVocab = () => {
+  //   alert("Fvt");
+  // };
+
+  const iconFvt = props.fvtStatus ? "fvt_icon fvt--icon--active" : "fvt_icon";
+  const toggle = (id) => {
+    if (props.fvtStatus) {
+      props.remove(id);
+    } else {
+      props.add(id);
+    }
   };
 
   return (
@@ -15,7 +24,11 @@ const VocabItem = (props) => {
       </p>
       <div className="btn_container">
         <button className="fvt__button">
-          <FiHeart onClick={fvtVocab} className="fvt_icon" size={20} />
+          <FiHeart
+            onClick={() => toggle(props.id)}
+            className={iconFvt}
+            size={20}
+          />
         </button>
       </div>
     </div>

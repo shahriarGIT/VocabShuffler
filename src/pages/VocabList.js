@@ -10,7 +10,9 @@ import pencilImg from "../assets/pencil.png";
 import clipImg from "../assets/clip.png";
 
 import { fetchVocabs } from "../redux/vocabActionsCreators.js";
-import VocabItem from "../container/Vocab/VocabItem";
+import VocabItem from "../container/Vocab/vocabitem/VocabItem";
+import { addFvtVocab } from "../redux/vocabActionsCreators";
+import { removeFvtVocab } from "../redux/vocabActionsCreators";
 
 const VocabList = () => {
   const dispatch = useDispatch();
@@ -23,6 +25,14 @@ const VocabList = () => {
     console.log(items, "from reducer");
   }, []);
 
+  const addVocab = (id) => {
+    dispatch(addFvtVocab(id));
+  };
+
+  const removeVocab = (id) => {
+    dispatch(removeFvtVocab(id));
+  };
+
   console.log(items, "from outside useeffect");
   return (
     <div className="list__container">
@@ -33,7 +43,15 @@ const VocabList = () => {
       {items.vocab &&
         items.vocab.map((item) => {
           return (
-            <VocabItem key={item.id} word={item.word} meaning={item.meaning} />
+            <VocabItem
+              add={addVocab}
+              remove={removeVocab}
+              id={item.id}
+              key={item.id}
+              word={item.word}
+              meaning={item.meaning}
+              fvtStatus={item.fvt}
+            />
           );
         })}
     </div>

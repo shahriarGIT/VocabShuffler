@@ -1,12 +1,12 @@
 .container__nav {
-  height: 80vh;
+  height: 88.8vh;
   width: 60vw;
-  position: absolute;
+  position: fixed;
   z-index: 10;
 
-  border: 1px solid red;
+  /* border: 3px solid red; */
   top: 5rem;
-  left: 18%;
+  left: 20%;
 
   /* ff 3.6+ */
   background: -moz-linear-gradient(
