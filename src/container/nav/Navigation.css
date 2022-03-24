@@ -181,9 +181,11 @@
   margin-left: 1.5rem;
 }
 
-.nav__item:hover {
+.nav__item:hover,
+.nav__item.active {
   transform: scale(1.1);
-  color: #fff;
+  color: rgb(230, 225, 225);
+  border-bottom: 1px solid #fff;
 }
 
 .nav__item::after {

@@ -7,9 +7,11 @@ import {
   collection,
   onSnapshot,
   getDocs,
+  getDoc,
   query,
   orderBy,
   updateDoc,
+  addDoc,
   doc,
 } from "firebase/firestore";
 
@@ -93,7 +95,6 @@ export const endFlashCard = () => {
 };
 
 // add fvt vocab
-
 const addFvtVocabToStore = (id) => {
   return {
     type: actionTypes.ADD_FVT_VOCAB,
@@ -135,4 +136,21 @@ export const removeFvtVocab = (id) => {
       dispatch(removeFvtFromStore(id));
     });
   };
+};
+
+// add vocab to firebase
+
+export const addNewVocabToFirebase = (values) => {
+  const newRef = collection(db, "vocabs");
+
+  addDoc(newRef, {
+    word: values.word,
+    meaning: values.meaning,
+  }).then(() => {
+    // onSnapshot(newRef, (snapshot) => {
+    //   let updatedVocab = [...prevVocabs];
+    //   console.log(doc.data());
+    //   console.log("complete");
+    // });
+  });
 };

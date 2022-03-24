@@ -7,3 +7,5 @@ export const END_FLASHCARD = "END_FLASHCARD";
 
 export const ADD_FVT_VOCAB = "ADD_FVT_VOCAB";
 export const REMOVE_FVT_VOCAB = "REMOVE_FVT_VOCAB";
+
+export const ADD_VOCAB = "ADD_VOCAB";

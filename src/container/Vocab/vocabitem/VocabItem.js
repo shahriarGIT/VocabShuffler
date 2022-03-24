@@ -7,7 +7,9 @@ const VocabItem = (props) => {
   //   alert("Fvt");
   // };
 
-  const iconFvt = props.fvtStatus ? "fvt_icon fvt--icon--active" : "fvt_icon";
+  let iconFvt = "fvt_icon";
+  iconFvt = props.fvtStatus ? "fvt_icon fvt--icon--active" : "fvt_icon";
+
   const toggle = (id) => {
     if (props.fvtStatus) {
       props.remove(id);

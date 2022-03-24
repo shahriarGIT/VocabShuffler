@@ -4,6 +4,7 @@ import { IoMdResize } from "react-icons/io";
 import Layout from "./container/ui/Layout";
 import VocabList from "./pages/VocabList";
 import Home from "./pages/Home";
+import InputVocab from './pages/InputVocab';
 import { useState } from "react";
 
 import { Routes, Route, Navigate } from "react-router-dom";
@@ -32,6 +33,7 @@ function App() {
           <Route path="/Home" element={<Home />} />
           <Route path="/Vocab-List" element={<VocabList />} />
           <Route path="/Vocab-Flashcard" element={<VocabFlashCard />} />
+          <Route path="/Input-Vocab" element={<InputVocab />} />
           <Route path="/Favorite-Vocab" element={<FavoriteVocabs />} />
         </Routes>
       </Layout>

@@ -1,0 +1,90 @@
+.form__container {
+  margin: 8rem 15% 0;
+  text-align: center;
+  padding: 2rem;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+
+  /* background-color: rgb(184, 145, 255); */
+
+  background: -moz-linear-gradient(
+    180deg,
+    rgba(137, 44, 220, 1) 64%,
+    rgba(8, 211, 195, 1) 100%
+  );
+
+  /* safari 5.1+,chrome 10+ */
+  background: -webkit-linear-gradient(
+    180deg,
+    rgba(137, 44, 220, 1) 64%,
+    rgba(8, 211, 195, 1) 100%
+  );
+
+  /* opera 11.10+ */
+  background: -o-linear-gradient(
+    180deg,
+    rgba(137, 44, 220, 1) 64%,
+    rgba(8, 211, 195, 1) 100%
+  );
+
+  /* ie 6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#892CDC', endColorstr='#08D3C3', GradientType=1 );
+
+  /* ie 10+ */
+  background: -ms-linear-gradient(
+    180deg,
+    rgba(137, 44, 220, 1) 64%,
+    rgba(8, 211, 195, 1) 100%
+  );
+  /* rgba(137, 44, 220, 1) 64%, */
+  /* global 94%+ browsers support */
+  background: linear-gradient(
+    180deg,
+    rgb(170, 73, 255) 64%,
+    rgb(80, 200, 209) 100%
+  );
+}
+
+.form__input {
+  display: block;
+  width: 90%;
+  margin: 1.8rem auto;
+  height: 2.7rem;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  outline: none;
+  letter-spacing: 0.4px;
+  position: relative;
+}
+
+.form__div {
+  position: relative;
+}
+
+.submit__button {
+  font-size: 1.2rem;
+  width: 8rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  margin-top: 0.8rem;
+  background-color: rgb(68, 118, 255);
+  color: white;
+  outline: none;
+}
+
+.submit__button:hover {
+  background-color: rgb(40, 96, 252);
+}
+
+.input__error {
+  padding: 0;
+  margin: 0;
+  color: rgba(243, 0, 0, 0.849);
+  font-size: 1.1rem;
+  font-weight: 500;
+  position: absolute;
+  bottom: -1.5rem;
+  left: 6%;
+}
