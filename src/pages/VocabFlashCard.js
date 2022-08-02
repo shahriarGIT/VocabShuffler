@@ -3,7 +3,11 @@ import "./VocabFlashCard.css";
 import Button from "../container/ui/Button.js";
 import { useState } from "react";
 import { useSelector } from "react-redux";
-import { startFlashCard, endFlashCard } from "../redux/vocabActionsCreators.js";
+import {
+  startFlashCard,
+  endFlashCard,
+  fetchVocabs,
+} from "../redux/vocabActionsCreators.js";
 import { useDispatch } from "react-redux";
 
 function getRandomInt(min, max) {
@@ -20,19 +24,15 @@ const shuffleArray = (vocab) => {
     aRR[i] = temp;
     aRR[randInt] = vocab[i];
   }
-
-  console.log(aRR);
 };
 
 let swap = (vocab) => {
-  for (let i = 0; i < vocab.length; i++) {
+  for (let i = 0; i < vocab?.length; i++) {
     let ran = Math.floor(Math.random() * vocab.length);
     let temp = vocab[ran];
     vocab[ran] = vocab[i];
     vocab[i] = temp;
   }
-
-  console.log(vocab);
 };
 
 const VocabFlashCard = () => {
@@ -40,12 +40,13 @@ const VocabFlashCard = () => {
   const [toggleText, setToggleText] = useState("OFF");
   const [counter, setCounter] = useState(0);
   const items = useSelector((state) => state);
-
-  const arr = items.vocab;
-  console.log(arr);
-  console.log(items);
-  //shuffleArray(arr);
-  console.log(counter);
+  let arr = [];
+  useEffect(() => {
+    if (items.vocab.length === 0) {
+      dispatch(fetchVocabs());
+    }
+  }, []);
+  arr = items?.vocab;
 
   const toggleTextHandler = () => {
     setToggleText((state) => (state === "ON" ? "OFF" : "ON"));
@@ -74,15 +75,19 @@ const VocabFlashCard = () => {
   };
 
   const startHandler = () => {
+    swap(arr);
+
     dispatch(startFlashCard());
   };
 
   const endtHandler = () => {
-    swap(items.vocab);
+    swap(arr);
 
-    document
-      .querySelector(".vocab__card")
-      .classList.add("vocab--card--animateout");
+    if (items.start) {
+      document
+        .querySelector(".vocab__card")
+        .classList.add("vocab--card--animateout");
+    }
 
     setTimeout(() => {
       dispatch(endFlashCard());
@@ -93,7 +98,7 @@ const VocabFlashCard = () => {
     <div className="container__div">
       <div className="navigate__container">
         <Button
-          disabled={items.start}
+          disabled={items.vocabLoading}
           onClick={startHandler}
           className="start__button"
         >

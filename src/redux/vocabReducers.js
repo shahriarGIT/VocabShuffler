@@ -2,10 +2,13 @@ import * as vocabActionTypes from "./vocabActionTypes";
 
 const INITIAL_STATE = {
   vocab: [],
+  fvtVocab: [],
   vocabLoading: false,
   error: "",
+  success: "",
   start: false,
   arrayCounter: 0,
+  loading: false,
 };
 
 const VOCABREDUCER = (state = INITIAL_STATE, action) => {
@@ -40,28 +43,49 @@ const VOCABREDUCER = (state = INITIAL_STATE, action) => {
         start: false,
       };
 
-    case vocabActionTypes.ADD_FVT_VOCAB: {
-      const vocabIndex = state.vocab.findIndex(
-        (item) => item.id === action.payload
-      );
-      const newVocabs = [...state.vocab];
-      newVocabs[vocabIndex].fvt = true;
+    case vocabActionTypes.FETCH_FVT_VOCAB: {
+      // console.log(action.payload, "from reducer ---");
+      const newVocabs = action.payload;
       return {
         ...state,
-        vocab: newVocabs,
+        success: true,
+        fvtVocab: newVocabs,
       };
     }
 
     case vocabActionTypes.REMOVE_FVT_VOCAB: {
-      const vocabIndex = state.vocab.findIndex(
-        (item) => item.id === action.payload
+      const newFvtArray = state.fvtVocab.filter(
+        (item) => item._id !== action.payload
       );
-      const newVocabs = [...state.vocab];
-      newVocabs[vocabIndex].fvt = false;
       return {
         ...state,
-        vocab: newVocabs,
+        fvtVocab: newFvtArray,
       };
+    }
+
+    case vocabActionTypes.AUTH_LOADING: {
+      return {
+        ...state,
+        loading: action.payload,
+      };
+    }
+
+    case vocabActionTypes.AUTH_ERROR: {
+      return {
+        ...state,
+        error: action.payload,
+      };
+    }
+
+    case vocabActionTypes.AUTH_SUCCESS: {
+      return {
+        ...state,
+        success: true,
+      };
+    }
+
+    case vocabActionTypes.RESET_STORE: {
+      return INITIAL_STATE;
     }
 
     default:

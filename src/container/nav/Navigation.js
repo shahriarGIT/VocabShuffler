@@ -5,8 +5,17 @@ import { FcGenericSortingAsc, FcTimeline } from "react-icons/fc";
 import { IoMdResize } from "react-icons/io";
 
 import "./Navigation.css";
+import useStatus from "../../hooks/useStatus.js";
+import { logout } from "../../redux/vocabActionsCreators.js";
+import { useDispatch, useSelector } from "react-redux";
 // onClick={props.hideMenu}
+
 const Navigation = (props) => {
+  const { user: loggedUser } = useStatus();
+  const dispatch = useDispatch();
+  const userLogout = () => {
+    dispatch(logout());
+  };
   return (
     <header>
       <div className="nav__container">
@@ -30,16 +39,53 @@ const Navigation = (props) => {
                 Vocab List
               </NavLink>
             </li>
-            <li className="list__item">
-              <NavLink className="nav__item" to="/Input-Vocab">
-                Input Vocab
-              </NavLink>
-            </li>
-            <li className="list__item">
-              <NavLink className="nav__item" to="/Favorite-Vocab">
-                Fvt Vocab
-              </NavLink>
-            </li>
+            {loggedUser && (
+              <li className="list__item">
+                <NavLink className="nav__item" to="/Input-Vocab">
+                  Input Vocab
+                </NavLink>
+              </li>
+            )}
+
+            {!loggedUser && (
+              <li className="list__item">
+                <NavLink className="nav__item" to="/login">
+                  Login
+                </NavLink>
+              </li>
+            )}
+
+            {/* {!loggedUser ? (
+              !loading ? (
+                <li className="list__item">
+                  <NavLink className="nav__item" to="/login">
+                    Login
+                  </NavLink>
+                </li>
+              ) : (
+                ""
+              )
+            ) : (
+              ""
+            )} */}
+            {loggedUser && (
+              <li className="list__item">
+                <NavLink
+                  className="nav__item"
+                  to="/Favorite-Vocab
+"
+                >
+                  Fvt Vocabs
+                </NavLink>
+              </li>
+            )}
+            {loggedUser && (
+              <li className="list__item">
+                <NavLink onClick={userLogout} className="nav__item" to="/">
+                  Logout
+                </NavLink>
+              </li>
+            )}
           </ul>
 
           <button className="nav__button" onClick={props.showMenu}>

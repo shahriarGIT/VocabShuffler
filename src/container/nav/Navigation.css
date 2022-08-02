@@ -185,6 +185,10 @@
 .nav__item.active {
   transform: scale(1.1);
   color: rgb(230, 225, 225);
+  font-weight: 500;
+}
+
+.nav__item.active {
   border-bottom: 1px solid #fff;
 }
 

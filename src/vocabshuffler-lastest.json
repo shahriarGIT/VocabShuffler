@@ -1,0 +1,3070 @@
+{
+  "vocabs": {
+    "-MWfXzM7hr5JPuR64wF_": {
+      "fvt": false,
+      "meaning": "silent",
+      "word": "reticent"
+    },
+    "-MWfYLNEpV5tFZf0lrDn": {
+      "fvt": true,
+      "meaning": "decline",
+      "word": "repudiate"
+    },
+    "-MWfcrD7S_NOLtYn8kuA": {
+      "fvt": false,
+      "meaning": "tone",
+      "word": "nuance"
+    },
+    "-MWiUKXZAPI_J47e_ABT": {
+      "fvt": false,
+      "meaning": "stiffen with anger",
+      "word": "bristle"
+    },
+    "-MWiVd3AVPZo-tn0_d75": {
+      "fvt": false,
+      "meaning": "secret",
+      "word": "furtive"
+    },
+    "-MWiVv5m_gdZmuwQSpxg": {
+      "fvt": false,
+      "meaning": "angry",
+      "word": "irate"
+    },
+    "-MWiXn3RfKn46a0jIJQA": {
+      "fvt": false,
+      "meaning": "easing of grief",
+      "word": "solace"
+    },
+    "-MWitrfLGgFFheCbDcTZ": {
+      "fvt": false,
+      "meaning": "foolish",
+      "word": "inane"
+    },
+    "-MWiy3lMS7PMjiQUQ3-a": {
+      "fvt": false,
+      "meaning": "agree",
+      "word": "concur"
+    },
+    "-MWjGde1CDYO1prydSoz": {
+      "fvt": false,
+      "meaning": "warlike",
+      "word": "belligerent"
+    },
+    "-MWjHbfzYXS6Cil7C-xl": {
+      "fvt": false,
+      "meaning": "a false attack",
+      "word": "feint"
+    },
+    "-MWjHoUQXixDU8gi0Wsy": {
+      "fvt": false,
+      "meaning": "wordly",
+      "word": "mundane"
+    },
+    "-MWjPN4gJ0qg9a_vEs6D": {
+      "fvt": false,
+      "meaning": "to specify a condition",
+      "word": "stipulate"
+    },
+    "-MWjm-BLxdWDWYaEhSci": {
+      "fvt": false,
+      "meaning": "a person easily tricked",
+      "word": "dupe"
+    },
+    "-MWjmmfIKaTdrq0f08nr": {
+      "fvt": false,
+      "meaning": "to hate",
+      "word": "loathe"
+    },
+    "-MWjnv6IZw3RnK2t6q34": {
+      "fvt": false,
+      "meaning": "dull",
+      "word": "lackluster"
+    },
+    "-MWjtqlPI_G8RB4Fsa6S": {
+      "fvt": false,
+      "meaning": "eager",
+      "word": "avid"
+    },
+    "-MWkF5NkuXWfzvRcDL9x": {
+      "fvt": false,
+      "meaning": "excess",
+      "word": "plethora"
+    },
+    "-MWkK6vPvy3G1fHhYiCZ": {
+      "fvt": false,
+      "meaning": "unfortunate",
+      "word": "hapless"
+    },
+    "-MWkKJSmdM3mGWGVdrZg": {
+      "fvt": false,
+      "meaning": "brave",
+      "word": "intrepid"
+    },
+    "-MWkKeGGWIHXW-hQGQko": {
+      "fvt": false,
+      "meaning": "crowd",
+      "word": "throng"
+    },
+    "-MWkLGVLy1T6tsbcX04U": {
+      "fvt": false,
+      "meaning": "skillful",
+      "word": "adroit"
+    },
+    "-MWkLcoor3YAyVCEvyAG": {
+      "fvt": false,
+      "meaning": "to lie",
+      "word": "fabricate"
+    },
+    "-MWkTBpkgey8RPnf1UoH": {
+      "fvt": false,
+      "meaning": "excuse",
+      "word": "pretext"
+    },
+    "-MWnq9Cv-42g4ER9lhPq": {
+      "fvt": false,
+      "meaning": "express much in few word",
+      "word": "laconic"
+    },
+    "-MWrny-NTGES0tnoW4zT": {
+      "fvt": false,
+      "meaning": "pressure",
+      "word": "coerce"
+    },
+    "-MWrpa1Njc3xaI7oEhnZ": {
+      "fvt": false,
+      "meaning": "spread or to make known officially ",
+      "word": "promulgate"
+    },
+    "-MWrpfnc8XZMccuGnmO9": {
+      "fvt": false,
+      "meaning": "showy ",
+      "word": "brash"
+    },
+    "-MWrpn1fTcvTK3-6COdr": {
+      "fvt": false,
+      "meaning": "mock",
+      "word": "scoff"
+    },
+    "-MWrpqND_PhcwjpsHQXQ": {
+      "fvt": true,
+      "meaning": "mock",
+      "word": "pugnacious"
+    },
+    "-MWueT75ozHpmu-qJu7Q": {
+      "fvt": false,
+      "meaning": "threatening ",
+      "word": "ominous "
+    },
+    "-MWuf8w52IqO11Hjw6yu": {
+      "fvt": false,
+      "meaning": "a stopping",
+      "word": "cessation"
+    },
+    "-MWuopx-Dl0z_jXrqoAA": {
+      "fvt": false,
+      "meaning": "having a actual form",
+      "word": "tangible"
+    },
+    "-MWy1spvuhoK6IjP1mq1": {
+      "fvt": true,
+      "meaning": "predict or forecast",
+      "word": "prognosticate"
+    },
+    "-MWy28bjpCnX4DWKSe9z": {
+      "fvt": false,
+      "meaning": "watchful",
+      "word": "vigilant"
+    },
+    "-MWyhqTBBc6Ve_7_YVk4": {
+      "fvt": false,
+      "meaning": "to correct by punishing ",
+      "word": "castigate"
+    },
+    "-MX27PkQ6pR4IgVs6LD6": {
+      "fvt": false,
+      "meaning": "candidate for high position",
+      "word": "aspirant"
+    },
+    "-MX27VzkFK91L0cUt3tn": {
+      "fvt": false,
+      "meaning": "most worthless part",
+      "word": "dregs "
+    },
+    "-MX27_R-B5_sz7EJGfOS": {
+      "fvt": false,
+      "meaning": "wild fit",
+      "word": "frenzy"
+    },
+    "-MX27fqxH9QoYbWmAVcE": {
+      "fvt": false,
+      "meaning": "coarse or rough",
+      "word": "scurrilous"
+    },
+    "-MX29-eQi961AyXRKtjo": {
+      "fvt": false,
+      "meaning": "snatch or seize",
+      "word": "wrest"
+    },
+    "-MX7EeHdENcGTBaR8h8h": {
+      "fvt": false,
+      "meaning": "secret or undercover",
+      "word": "clandestine"
+    },
+    "-MX7F0YTFiShHhbaB-Vb": {
+      "fvt": false,
+      "meaning": "to warn",
+      "word": "admonish"
+    },
+    "-MX7FEoHV_PMHRnrnS8R": {
+      "fvt": false,
+      "meaning": "remarkably bad",
+      "word": "egregious"
+    },
+    "-MX7FIuuCCDyrynL9SUI": {
+      "fvt": false,
+      "meaning": "mentally confused",
+      "word": "distraught"
+    },
+    "-MX7FSfK4ixE1AFXgcs6": {
+      "fvt": false,
+      "meaning": "scarcity",
+      "word": "paucity"
+    },
+    "-MX7FjVfM1KVIcIaPjgO": {
+      "fvt": false,
+      "meaning": "to make a deduction",
+      "word": "construe"
+    },
+    "-MX7FnFdO-nUiJo4NXdY": {
+      "fvt": false,
+      "meaning": "freedom from punishment",
+      "word": "impunity"
+    },
+    "-MX7G4s6iA0Oa_ZCnoXK": {
+      "fvt": false,
+      "meaning": "dirty",
+      "word": "sordid"
+    },
+    "-MX7GJ0P0f1r7A5Mk9ka": {
+      "fvt": false,
+      "meaning": "rough",
+      "word": "coarse"
+    },
+    "-MX7HBpkeAL9FQukrARX": {
+      "fvt": false,
+      "meaning": "rich",
+      "word": "affluent"
+    },
+    "-MX7HHmJc018DYmOaq35": {
+      "fvt": false,
+      "meaning": "possible",
+      "word": "feasible"
+    },
+    "-MX7HRKZ0dTDP2EqNAXz": {
+      "fvt": false,
+      "meaning": "suddenly rush forth",
+      "word": "sally"
+    },
+    "-MX7IG37blnBvBrYNxty": {
+      "fvt": false,
+      "meaning": "exterior or done without care",
+      "word": "superficial"
+    },
+    "-MX7INm_v-LuhkisvaPZ": {
+      "fvt": false,
+      "meaning": "feeling of disappointment",
+      "word": "chagrin"
+    },
+    "-MX7IZXABl-XZmQyy1SL": {
+      "fvt": true,
+      "meaning": "contrary or opposite",
+      "word": "perverse"
+    },
+    "-MX7IjHMHrAq3OpHA9b9": {
+      "fvt": false,
+      "meaning": "to ridicule or mock",
+      "word": "deride"
+    },
+    "-MX7IwprgmvEPFjHQcOk": {
+      "fvt": false,
+      "meaning": "to discredit",
+      "word": "disparage "
+    },
+    "-MX7J2MCZrGCc9GPAHY2": {
+      "fvt": true,
+      "meaning": "praiseworthy",
+      "word": "laudable"
+    },
+    "-MX7J9Nn2H0QDSdKZJAe": {
+      "fvt": false,
+      "meaning": "complete failure",
+      "word": "fiasco"
+    },
+    "-MX7JNCi5Ywb2sIlxUXm": {
+      "fvt": false,
+      "meaning": "put an end to",
+      "word": "quell"
+    },
+    "-MX7JXOeYZB-5r3xkOFp": {
+      "fvt": false,
+      "meaning": "talkative",
+      "word": "voluble"
+    },
+    "-MX7JnufhR9RxzsXqhCz": {
+      "fvt": false,
+      "meaning": "doubtful",
+      "word": "dubious"
+    },
+    "-MXCnWuZYHv1Vrvzh3Mn": {
+      "fvt": false,
+      "meaning": "relentless",
+      "word": "implacable"
+    },
+    "-MXCo2zl01RLpDi9HjOG": {
+      "fvt": false,
+      "meaning": "outburst of particular emotion",
+      "word": "paroxsym"
+    },
+    "-MXCoIG5nmbg8Lqn1-Gj": {
+      "fvt": false,
+      "meaning": "worthy of blame",
+      "word": "reprehensible "
+    },
+    "-MXCoaikqjH9OjsSoHo6": {
+      "fvt": false,
+      "meaning": "small fight ",
+      "word": "skirmish "
+    },
+    "-MXCoil3u3p3Rd-Suk5v": {
+      "fvt": false,
+      "meaning": "torment",
+      "word": "harass"
+    },
+    "-MXCot6oZISPArfrlAkT": {
+      "fvt": false,
+      "meaning": "poor",
+      "word": "indigent"
+    },
+    "-MXCpFY8oOh8W_E0Ylqe": {
+      "fvt": false,
+      "meaning": "random or whimsical ",
+      "word": "arbitrary"
+    },
+    "-MXCpLcUeGy8Gh0NuhbG": {
+      "fvt": false,
+      "meaning": "a fight",
+      "word": "fray"
+    },
+    "-MXCqIyaJrvR3kOTxqRX": {
+      "fvt": false,
+      "meaning": "prevent or to hinder or impede",
+      "word": "stymie"
+    },
+    "-MXCrVwKvDhl3aiF0Utq": {
+      "fvt": false,
+      "meaning": "aware",
+      "word": "cognizant"
+    },
+    "-MXCrwuLYmQWI4HWK2zO": {
+      "fvt": false,
+      "meaning": "unruly or rough",
+      "word": "turbulent"
+    },
+    "-MXCs4HNgybXocPsxMZN": {
+      "fvt": false,
+      "meaning": "show contempt or mock",
+      "word": "flout"
+    },
+    "-MXCsFC0GMy6c9Ov8dTi": {
+      "fvt": false,
+      "meaning": "immediately ",
+      "word": "forthwith"
+    },
+    "-MXCsMaQmVPYFtMw0_HX": {
+      "fvt": false,
+      "meaning": "make worse",
+      "word": "exacerbate"
+    },
+    "-MXCsTaTVX6rKNpDNHLx": {
+      "fvt": false,
+      "meaning": "eject",
+      "word": "oust"
+    },
+    "-MXEb-JNrbLheyaawJJl": {
+      "fvt": false,
+      "meaning": "success or intended result",
+      "word": "efficacy"
+    },
+    "-MXN08ViXXdSQAzqcokC": {
+      "fvt": false,
+      "meaning": "quiet",
+      "word": "tranquil"
+    },
+    "-MXN0bxLeM7xLArviJYk": {
+      "fvt": false,
+      "meaning": "to trouble greatly",
+      "word": "afflict"
+    },
+    "-MXN0rpunjUi5gebXEos": {
+      "fvt": true,
+      "meaning": "lack of necessities",
+      "word": "privation"
+    },
+    "-MXN11U4cFt6o0yuLFeA": {
+      "fvt": false,
+      "meaning": "being everywhere at the same time",
+      "word": "ubiquitous"
+    },
+    "-MXN1BOGGagDRSBw7NQK": {
+      "fvt": false,
+      "meaning": "to hinder or defeat",
+      "word": "thwart"
+    },
+    "-MXN1IhrnwRJhQc6F5Zi": {
+      "fvt": false,
+      "meaning": "advance notice",
+      "word": "harbinger"
+    },
+    "-MXN1OQQdG03dG7m8WbC": {
+      "fvt": false,
+      "meaning": "likely to cause death",
+      "word": "malignant"
+    },
+    "-MXN1mIiW8UqLYo5fsPg": {
+      "fvt": false,
+      "meaning": "severe or extreme",
+      "word": "excruciating"
+    },
+    "-MXN1vF8CHOmyBw3Q5HF": {
+      "fvt": false,
+      "meaning": "an interval of relief",
+      "word": "respite"
+    },
+    "-MXN21xgIH_pLxxAuzSt": {
+      "fvt": false,
+      "meaning": "irritable",
+      "word": "fretful"
+    },
+    "-MXN2Fp0t1Sqprgb_-cw": {
+      "fvt": false,
+      "meaning": "surrender",
+      "word": "succumb"
+    },
+    "-MXN2e9JmZaa_rmxzfZn": {
+      "fvt": false,
+      "meaning": "getting money by threats",
+      "word": "extortion"
+    },
+    "-MXN2uIeLlvaBEtrVdwI": {
+      "fvt": false,
+      "meaning": "harmful",
+      "word": "adverse"
+    },
+    "-MXN33sNtT6R-QjPkDLC": {
+      "fvt": false,
+      "meaning": "narrow minded",
+      "word": "bigot"
+    },
+    "-MXN3iOkNNS-Jj9r9mLo": {
+      "fvt": false,
+      "meaning": "bad behaviour done openly",
+      "word": "blatant"
+    },
+    "-MXN3tWFAt97kFLF9Ahn": {
+      "fvt": false,
+      "meaning": "full of hate",
+      "word": "virulent"
+    },
+    "-MXN44cy-h9YbS4tJjdF": {
+      "fvt": false,
+      "meaning": "throw up or eject",
+      "word": "spew"
+    },
+    "-MXN4JSXJ5JHrYl-Et4F": {
+      "fvt": false,
+      "meaning": "unwilling or reluctant",
+      "word": "loath"
+    },
+    "-MXN4hbo4v5J0wLZ0eFE": {
+      "fvt": false,
+      "meaning": "ask for seek",
+      "word": "solicit"
+    },
+    "-MXN53aPakgYr8S1e63w": {
+      "fvt": false,
+      "meaning": "shrewd or sharp",
+      "word": "astute"
+    },
+    "-MXN5CvRewYWSNXtPTB-": {
+      "fvt": false,
+      "meaning": "not effective",
+      "word": "ineffectual"
+    },
+    "-MXN5_RDS_1mBbvIaCRF": {
+      "fvt": false,
+      "meaning": "friendly or peaceful",
+      "word": "amicable"
+    },
+    "-MXN5fXD5XLMQDMahH9q": {
+      "fvt": false,
+      "meaning": "annoying ",
+      "word": "vexatious"
+    },
+    "-MXN5ia44wUuc7IHmJBc": {
+      "fvt": false,
+      "meaning": "disease",
+      "word": "malady"
+    },
+    "-MXRRskdnHbBIw4Ww3NB": {
+      "fvt": false,
+      "meaning": "shock",
+      "word": "aghast"
+    },
+    "-MXZPOdneiInB2_YPXnC": {
+      "fvt": false,
+      "meaning": "bad sexual behaviour",
+      "word": "debauchery"
+    },
+    "-MX_tFfNM7oodiixr5vm": {
+      "fvt": false,
+      "meaning": "widespread or uncontrolled",
+      "word": "rampant"
+    },
+    "-MX_wDV4z1Ihpr7AXA0Q": {
+      "fvt": false,
+      "meaning": "compulsive or force",
+      "word": "duress"
+    },
+    "-MX_wKaXsUztlLuGMgAP": {
+      "fvt": false,
+      "meaning": "outrageous or shocking",
+      "word": "flagrant"
+    },
+    "-MX_zc0PWm5S7V-L0avK": {
+      "fvt": false,
+      "meaning": "bitter or caustic",
+      "word": "acrimonious"
+    },
+    "-MX_zpVnTMHQ46TlN898": {
+      "fvt": false,
+      "meaning": "worried or upset",
+      "word": "distraught "
+    },
+    "-MXa2BKCLJfgNiWOlZMw": {
+      "fvt": false,
+      "meaning": "bring out or extract",
+      "word": "elicit"
+    },
+    "-MXa2Rs5t-_kzyHH5tke": {
+      "fvt": true,
+      "meaning": "harmful or destructive ",
+      "word": "pernicious "
+    },
+    "-MXkYltcIRCBr6z-WJ6A": {
+      "fvt": false,
+      "meaning": "destroy or wipeout ",
+      "word": "obliterate "
+    },
+    "-MXkuwA-Hvt9jfrMbC5o": {
+      "fvt": false,
+      "meaning": "think about",
+      "word": "ponder"
+    },
+    "-MXlVnu5oOBiwu8jVuQE": {
+      "fvt": false,
+      "meaning": "examine closely",
+      "word": "scrutinize"
+    },
+    "-MXlVxYxEsaY5hgG3val": {
+      "fvt": false,
+      "meaning": "villainous or vicious",
+      "word": "nefarious"
+    },
+    "-MXlWYHmORErjvIZ0GOi": {
+      "fvt": true,
+      "meaning": "unfavorable or stormy ",
+      "word": "inclement"
+    },
+    "-MXlWe54yA0yNi_a_k0t": {
+      "fvt": false,
+      "meaning": "to read carefully",
+      "word": "peruse"
+    },
+    "-MXlWwezYaD8f3INUKk3": {
+      "fvt": false,
+      "meaning": "intuition or suspicion",
+      "word": "premonition"
+    },
+    "-MXlXYGIYep5x3ekodpK": {
+      "fvt": false,
+      "meaning": "cease or stop",
+      "word": "desist"
+    },
+    "-MXlXcqaEAmxcNKaRf54": {
+      "fvt": false,
+      "meaning": "stop",
+      "word": "refrain"
+    },
+    "-MXlXw9yARc5O5ys4Pry": {
+      "fvt": false,
+      "meaning": "to the point",
+      "word": "pertinent"
+    },
+    "-MXlZE4xQJ8zQvxnxzlE": {
+      "fvt": false,
+      "meaning": "sad",
+      "word": "doleful "
+    },
+    "-MXlZOyhKYwKosTEGBsk": {
+      "fvt": false,
+      "meaning": "sickly pale",
+      "word": "wan"
+    },
+    "-MXl_EaxKHqNQ_VwHJw1": {
+      "fvt": false,
+      "meaning": "difficult to achieve",
+      "word": "elusive"
+    },
+    "-MXl_bsQhRnqohi5MBmZ": {
+      "fvt": false,
+      "meaning": "insert or interrupt ",
+      "word": "interject"
+    },
+    "-MXl_uDLe8mYe0t3XEct": {
+      "fvt": false,
+      "meaning": "motionless ",
+      "word": "inert"
+    },
+    "-MXla8DyLjnZvhfRP9RM": {
+      "fvt": false,
+      "meaning": "prominent or main",
+      "word": "salient"
+    },
+    "-MXlaU4YW8N4sBzBGdVA": {
+      "fvt": false,
+      "meaning": "near ",
+      "word": "imminent"
+    },
+    "-MXlab1DnyGbEFw6OOGu": {
+      "fvt": false,
+      "meaning": "easily shocked",
+      "word": "squeamish"
+    },
+    "-MXlbYlVJbz27tS-5JIV": {
+      "fvt": false,
+      "meaning": "to flood",
+      "word": "inundate"
+    },
+    "-MXlcjwTGmMqzGxniE-1": {
+      "fvt": false,
+      "meaning": "touching or moving ",
+      "word": "poignant"
+    },
+    "-MXlcs--tlMF8BPCP0-y": {
+      "fvt": false,
+      "meaning": "mixed up ",
+      "word": "garbled"
+    },
+    "-MXld0MjosoPk9_wUo_G": {
+      "fvt": false,
+      "meaning": "optimistic",
+      "word": "sanguine"
+    },
+    "-MXldXgxAmsxV-1Gw3Xa": {
+      "fvt": true,
+      "meaning": "calm",
+      "word": "phlegmatic"
+    },
+    "-MXldg_Yuo-OfRdVfV70": {
+      "fvt": false,
+      "meaning": "support ",
+      "word": "corroborate"
+    },
+    "-MXle9E6L4uBwXXwgGN3": {
+      "fvt": false,
+      "meaning": "enthusiastic or fervid",
+      "word": "zealous"
+    },
+    "-MXleSEUGKg4cFsqw2Ke": {
+      "fvt": false,
+      "meaning": "progress",
+      "word": "elapse"
+    },
+    "-MXleXCdtzzkoJjhy2gw": {
+      "fvt": false,
+      "meaning": "careful",
+      "word": "meticulous"
+    },
+    "-MXleqJFp3iQgFwWklLv": {
+      "fvt": false,
+      "meaning": "permanent home",
+      "word": "domicile "
+    },
+    "-MXlevXsU72v8ZuP-T45": {
+      "fvt": false,
+      "meaning": "negligent",
+      "word": "lax "
+    },
+    "-MXlf-f3aX0QRJ926g_N": {
+      "fvt": false,
+      "meaning": "occasional",
+      "word": "sporadic"
+    },
+    "-MXlfCX1oZngUunUREWc": {
+      "fvt": false,
+      "meaning": "guess ",
+      "word": "conjecture"
+    },
+    "-MXlfT3zQKaVViPQNQd4": {
+      "fvt": true,
+      "meaning": "preclude or get rid of",
+      "word": "obviate"
+    },
+    "-MXlfhtC_qpkhHvzn-xq": {
+      "fvt": false,
+      "meaning": "bright or sensational",
+      "word": "lurid"
+    },
+    "-MXlfobsLXePCnfLYwmx": {
+      "fvt": false,
+      "meaning": "joke",
+      "word": "quip"
+    },
+    "-MYMeV__Wgwj9bL_tuQh": {
+      "fvt": false,
+      "meaning": "bitter criticism",
+      "word": "diatribe"
+    },
+    "-MYMewKK3ztmjERoLcdK": {
+      "fvt": false,
+      "meaning": "unable to act in a natural way",
+      "word": "inhibition"
+    },
+    "-MYMf1SSuz9RJZWDi05B": {
+      "fvt": false,
+      "meaning": "accidental",
+      "word": "fortuitous"
+    },
+    "-MYMfOkuwOlZV7H6aGHx": {
+      "fvt": false,
+      "meaning": "category",
+      "word": "ilk"
+    },
+    "-MYMf_sCaSKXraI8PD8W": {
+      "fvt": false,
+      "meaning": "essential",
+      "word": "integral"
+    },
+    "-MYMfjSkdtko1qs8yrDT": {
+      "fvt": false,
+      "meaning": "reward or pay",
+      "word": "remuneration"
+    },
+    "-MYMfqHn5ihm3ssiWCSJ": {
+      "fvt": false,
+      "meaning": "erase",
+      "word": "expunge"
+    },
+    "-MYMfwz38JdNuof3Vfzt": {
+      "fvt": false,
+      "meaning": "colorful",
+      "word": "flamboyant"
+    },
+    "-MYMgMgCdibgNutVwcgm": {
+      "fvt": false,
+      "meaning": "hateful or odious or repugnant",
+      "word": "anathema"
+    },
+    "-MYMgc52rLs8kr7wooNw": {
+      "fvt": false,
+      "meaning": "paradise",
+      "word": "utopia"
+    },
+    "-MYMgiimnkxvcIof1Y-t": {
+      "fvt": true,
+      "meaning": "fearful",
+      "word": "timorous"
+    },
+    "-MYMgoPyE9QeEnEbYT1T": {
+      "fvt": false,
+      "meaning": "cut short",
+      "word": "truncated"
+    },
+    "-MYMgzEaFpigGB-jBXVS": {
+      "fvt": false,
+      "meaning": "cheerful or jolly",
+      "word": "jaunty"
+    },
+    "-MYMhAa9Nmat9mZfE0e3": {
+      "fvt": false,
+      "meaning": "quarrelsome",
+      "word": "fractious"
+    },
+    "-MYMhNy_UOfHyJcSaCBk": {
+      "fvt": false,
+      "meaning": "showy",
+      "word": "ostentatious"
+    },
+    "-MYMhpyPM-CEL8RLHMVh": {
+      "fvt": true,
+      "meaning": "harass persistently",
+      "word": "importune"
+    },
+    "-MYMi0QGFiH3ExGcdhF-": {
+      "fvt": true,
+      "meaning": "undeniable",
+      "word": "incontrovertible"
+    },
+    "-MYMiOGvkrhdoML2ipP_": {
+      "fvt": true,
+      "meaning": "accomplished by secret",
+      "word": "surreptitious"
+    },
+    "-MYMihUIZmqgDlY-ifpK": {
+      "fvt": false,
+      "meaning": "a place of safety",
+      "word": "haven"
+    },
+    "-MYMiuuRa7PM_JyB4ETa": {
+      "fvt": false,
+      "meaning": "defeat or conquer",
+      "word": "subjugate"
+    },
+    "-MYMjLosx2idr7OoBfn6": {
+      "fvt": false,
+      "meaning": "underground",
+      "word": "subterranean"
+    },
+    "-MYMjYj-qq6eCKhzKswQ": {
+      "fvt": false,
+      "meaning": "practical",
+      "word": "viable"
+    },
+    "-MYMkAPZY8BEpJu-9gHf": {
+      "fvt": false,
+      "meaning": "endanger",
+      "word": "jeopardize"
+    },
+    "-MYMkPHiTAzHQU4a2x7H": {
+      "fvt": true,
+      "meaning": "doubtful",
+      "word": "incredulous"
+    },
+    "-MYMk_B1HnpCczE-krzJ": {
+      "fvt": false,
+      "meaning": "spread",
+      "word": "permeate"
+    },
+    "-MYMkfAsQOySXHZivCfh": {
+      "fvt": true,
+      "meaning": "favorable",
+      "word": "propitious"
+    },
+    "-MYMkl0rhqJF9U4sMUTp": {
+      "fvt": true,
+      "meaning": "guess",
+      "word": "surmise"
+    },
+    "-MYMkx6NXz1YT7nOddv9": {
+      "fvt": false,
+      "meaning": "decrease",
+      "word": "curtail"
+    },
+    "-MYMlNA2jfLYgUYhEGc6": {
+      "fvt": false,
+      "meaning": "confusing",
+      "word": "cryptic"
+    },
+    "-MYMlhxy_Jda9IC3UG7D": {
+      "fvt": false,
+      "meaning": "just begun",
+      "word": "inchoate"
+    },
+    "-MYqAxmljSao5VMkAoUd": {
+      "fvt": false,
+      "meaning": "to strive for",
+      "word": "aspire"
+    },
+    "-MYqB4qwU373hkw3mIyS": {
+      "fvt": false,
+      "meaning": "attack verbally",
+      "word": "inveigh"
+    },
+    "-MYqBA1bxB1Zd6UvGA_u": {
+      "fvt": false,
+      "meaning": "irritate",
+      "word": "nettle"
+    },
+    "-MYqBO8SRI5fTgT5ZlFB": {
+      "fvt": false,
+      "meaning": "open",
+      "word": "overt"
+    },
+    "-MYqBgAPAdIaaqrg3jOq": {
+      "fvt": false,
+      "meaning": "downgrade",
+      "word": "relegate"
+    },
+    "-MYqBnk2CBeaitzDQZ4f": {
+      "fvt": false,
+      "meaning": "lying on the back",
+      "word": "supine"
+    },
+    "-MYqBtfKgKfGBHd9VWXF": {
+      "fvt": false,
+      "meaning": "huge",
+      "word": "mammoth"
+    },
+    "-MYqC6QNEu6kL7NBHfHv": {
+      "fvt": false,
+      "meaning": "fight back",
+      "word": "repulse"
+    },
+    "-MYqCA2s5LxnTWdL7a1Q": {
+      "fvt": false,
+      "meaning": "ruin",
+      "word": "havoc"
+    },
+    "-MYqCEJJLtvWVc0Hu48D": {
+      "fvt": false,
+      "meaning": "destroy",
+      "word": "raze"
+    },
+    "-MYqCQjJKolIfHvx4cuo": {
+      "fvt": false,
+      "meaning": "run hastily",
+      "word": "scurry"
+    },
+    "-MYqCnJxKGKk8OsYXJV2": {
+      "fvt": true,
+      "meaning": "acute or intelligently analytical",
+      "word": "incisive"
+    },
+    "-MYqD32wvWyw3NDv_x4E": {
+      "fvt": false,
+      "meaning": "hasten or to happen suddenly",
+      "word": "precipitate"
+    },
+    "-MYqDDDWAXg_BAyRWemT": {
+      "fvt": false,
+      "meaning": "loud",
+      "word": "stentorian"
+    },
+    "-MYqDKU5lWtTwmdc-D4B": {
+      "fvt": false,
+      "meaning": "courage",
+      "word": "valor"
+    },
+    "-MYqDWryggRMTyMZ1M2d": {
+      "fvt": false,
+      "meaning": "bias",
+      "word": "prejudice"
+    },
+    "-MYqE5gifCV4gFAuk6el": {
+      "fvt": false,
+      "meaning": "partnership in wrongdoing",
+      "word": "complicity"
+    },
+    "-MYqElEt1lRbDaeyaPL3": {
+      "fvt": false,
+      "meaning": "an associate in crime",
+      "word": "accomplice"
+    },
+    "-MYqEpxwhTOrSmRIOCxs": {
+      "fvt": false,
+      "meaning": "withdraw previous statements",
+      "word": "recant"
+    },
+    "-MYqEtUdUE7r6qUSFAZM": {
+      "fvt": false,
+      "meaning": "deserving blame",
+      "word": "culpable"
+    },
+    "-MYqEzz_ekxGpqXp_9vA": {
+      "fvt": false,
+      "meaning": "abolish",
+      "word": "abrogate"
+    },
+    "-MYqFNpxCTTqftnjwJtb": {
+      "fvt": false,
+      "meaning": "entry",
+      "word": "access"
+    },
+    "-MYqFb_xJlwwf4gHUbCv": {
+      "fvt": false,
+      "meaning": "cancel",
+      "word": "invalidate"
+    },
+    "-MYqFg4poD3VCfXcFd0W": {
+      "fvt": true,
+      "meaning": "prevent",
+      "word": "preclude"
+    },
+    "-MYqG0Pzo8k_RIdN0tZW": {
+      "fvt": false,
+      "meaning": "persist or continue",
+      "word": "persevere"
+    },
+    "-MYqGEViHOJxcX9hvMd7": {
+      "fvt": false,
+      "meaning": "foreign",
+      "word": "extrinsic"
+    },
+    "-MYqGLHwJiKbNWmvcJAS": {
+      "fvt": false,
+      "meaning": "speak loudly",
+      "word": "declaim"
+    },
+    "-MYqH1jiCiywIyHvbEnh": {
+      "fvt": false,
+      "meaning": "restrain with chain",
+      "word": "fetter"
+    },
+    "-MYqHMjilKUkbZQafJ4i": {
+      "fvt": false,
+      "meaning": "regarded as a perfect example",
+      "word": "paragon"
+    },
+    "-MYqHhot_9OE_zdenQdE": {
+      "fvt": false,
+      "meaning": "harshness of tone",
+      "word": "asperity"
+    },
+    "-MYqIUDgqjr1xqExpvXl": {
+      "fvt": false,
+      "meaning": "label someone negatively",
+      "word": "epithet"
+    },
+    "-MZj0M5a4eZUWaBRKHe-": {
+      "fvt": false,
+      "meaning": "local",
+      "word": "indigenous"
+    },
+    "-MZj0fM8Kgws1Z39Uilr": {
+      "fvt": false,
+      "meaning": "sociable or friendly",
+      "word": "gregarious"
+    },
+    "-MZj1j_NLIOXj2piTiEV": {
+      "fvt": false,
+      "meaning": "not thorough or quick",
+      "word": "cursory"
+    },
+    "-MZj1phjuD7IMHiBfcMg": {
+      "fvt": false,
+      "meaning": "an unauthorized person",
+      "word": "interloper"
+    },
+    "-MZj2BhCeizDzU3Cf9dL": {
+      "fvt": false,
+      "meaning": "producing in large number",
+      "word": "prolific"
+    },
+    "-MZj2HBanRg5ckWVsDFY": {
+      "fvt": false,
+      "meaning": "protection",
+      "word": "bulwark"
+    },
+    "-MZj2WZfR5uyRm8SX9wq": {
+      "fvt": false,
+      "meaning": "largely inactive",
+      "word": "sedentary"
+    },
+    "-MZj2hrBqiRAmhxlshK7": {
+      "fvt": false,
+      "meaning": "frugal or cheap",
+      "word": "thrifty"
+    },
+    "-MZj2mZjmHMM3sm2L8_n": {
+      "fvt": false,
+      "meaning": "exact opposite",
+      "word": "antithesis"
+    },
+    "-MZj3ozxiEJ8GKTaQzeE": {
+      "fvt": false,
+      "meaning": "unselfish",
+      "word": "altruistic"
+    },
+    "-MZj44QZYrJ2mXysKaPQ": {
+      "fvt": false,
+      "meaning": "make more beautiful ",
+      "word": "embellish"
+    },
+    "-MZj4B59EZG9jh8Rj1Gc": {
+      "fvt": false,
+      "meaning": "secret hiding place",
+      "word": "cache"
+    },
+    "-MZj4JYjEI_W3YeWdDH-": {
+      "fvt": false,
+      "meaning": "small group having something in common",
+      "word": "coterie"
+    },
+    "-MZj4V4cf0bmnGXr7OMc": {
+      "fvt": false,
+      "meaning": "greed",
+      "word": "cupidity"
+    },
+    "-MZj5EG-soc812w0fYeC": {
+      "fvt": false,
+      "meaning": "great technical skill",
+      "word": "virtuosity"
+    },
+    "-MZj6QU_fPRWkhRboH93": {
+      "fvt": false,
+      "meaning": "nerve",
+      "word": "temerity"
+    },
+    "-MZj6rWZqqIpNW9IAWJu": {
+      "fvt": false,
+      "meaning": "descendants",
+      "word": "progeny"
+    },
+    "-MZj7I67QFkePmyj3mhC": {
+      "meaning": "make something wet",
+      "word": "saturate"
+    },
+    "-MZj8vju14mRCGWlcqB6": {
+      "fvt": false,
+      "meaning": "showing sexual desire",
+      "word": "amorous"
+    },
+    "-MZj9FT346hjIu5UbZ2l": {
+      "fvt": false,
+      "meaning": "commit",
+      "word": "perpetrate"
+    },
+    "-MZj9g14o1z2gz1fUfX5": {
+      "fvt": false,
+      "meaning": "showing great skill",
+      "word": "consummate"
+    },
+    "-MZjAcZpyQP-65vGX97r": {
+      "fvt": false,
+      "meaning": "trick or deception",
+      "word": "subterfuge"
+    },
+    "-MZjBJIfJEu6_cnUX0_U": {
+      "fvt": false,
+      "meaning": "devise or put together",
+      "word": "concoct"
+    },
+    "-MZjBmz3mwNA83SpK04M": {
+      "fvt": false,
+      "meaning": "incorrect",
+      "word": "fallacious"
+    },
+    "-MZjDI7d-X8DHtAsWqD1": {
+      "fvt": false,
+      "meaning": "many or various ",
+      "word": "manifold"
+    },
+    "-MZjFUA5uZ3xHWKmRXtc": {
+      "fvt": false,
+      "meaning": "determination",
+      "word": "perseverance"
+    },
+    "-MZjG7YVT2KDFezSWTBf": {
+      "fvt": true,
+      "meaning": "careful",
+      "word": "assiduous"
+    },
+    "-MZjGLtTFTIw9lc3bQ6J": {
+      "fvt": false,
+      "meaning": "faultless",
+      "word": "impeccable"
+    },
+    "-MZjGwcp5fE70hzc6f-v": {
+      "fvt": false,
+      "meaning": "filled with",
+      "word": "fraught"
+    },
+    "-MZjHo-EzwayMyt2Mv8c": {
+      "fvt": false,
+      "meaning": "dark",
+      "word": "murky"
+    },
+    "-MZjIGEaENdD3Bwv3JXl": {
+      "fvt": false,
+      "meaning": "maze",
+      "word": "labyrinth"
+    },
+    "-MZjJ53jsoxWQheVbdqh": {
+      "fvt": false,
+      "meaning": "rejoice or enjoy",
+      "word": "exult"
+    },
+    "-MZjKxG6YABoYXVBbC9-": {
+      "fvt": false,
+      "meaning": "proves that",
+      "word": "attest"
+    },
+    "-MZjLgOVE3wnqUszgPfe": {
+      "fvt": false,
+      "meaning": "easily fooled",
+      "word": "gullible"
+    },
+    "-MZjMSVwteNGwN00BnXt": {
+      "fvt": false,
+      "meaning": "riddle or difficult to understand",
+      "word": "enigma"
+    },
+    "-M_03Aq3rKdNhNUdsKF7": {
+      "fvt": false,
+      "meaning": "unsatisfactory or worthless",
+      "word": "dud"
+    },
+    "-M_03V0FLCcvZFFtbjk_": {
+      "fvt": false,
+      "meaning": "heavenly or spiritual",
+      "word": "ethereal"
+    },
+    "-M_2drocCilud8iwE79_": {
+      "fvt": false,
+      "meaning": "failed or unsuccessful ",
+      "word": "abortive"
+    },
+    "-M_2eA-wf-SIomWzA5qu": {
+      "fvt": false,
+      "meaning": "natural",
+      "word": "innate"
+    },
+    "-M_2eYbLOLmc_iIYgsGU": {
+      "fvt": false,
+      "meaning": "thin covering",
+      "word": "veneer"
+    },
+    "-M_2ehb6NL3PYC6MO-Fu": {
+      "fvt": false,
+      "meaning": "countless ",
+      "word": "myriad"
+    },
+    "-M_2f6QkUKpTwL6NXojA": {
+      "fvt": false,
+      "meaning": "good manners",
+      "word": "urbane"
+    },
+    "-M_2fX7_Tqu-Od0raSQI": {
+      "fvt": false,
+      "meaning": "consider",
+      "word": "deem"
+    },
+    "-M_2gcdwuk5_-nGSIKRX": {
+      "meaning": "built-in ",
+      "word": "inherent"
+    },
+    "-M_2hBjnsP3ABHV-vlBm": {
+      "fvt": false,
+      "meaning": "rub",
+      "word": "buff"
+    },
+    "-M_2hjTpwC3WFQ7lnmP3": {
+      "fvt": false,
+      "meaning": "play roughly and energetically",
+      "word": "romp"
+    },
+    "-M_2iPRJ1jSQu0kfrYlD": {
+      "fvt": false,
+      "meaning": "hidden or existing but not yet developed ",
+      "word": "latent"
+    },
+    "-M_2ifBkxRff8cD80G5D": {
+      "fvt": false,
+      "meaning": "full of twists and turns",
+      "word": "tortuous"
+    },
+    "-M_2jG_HtoafzAvqxXDT": {
+      "fvt": false,
+      "meaning": "wandering or travelling ",
+      "word": "itinerant"
+    },
+    "-M_2jr_1rnfsGq4UB68Z": {
+      "fvt": true,
+      "meaning": "journeys or voyages",
+      "word": "peregrination"
+    },
+    "-M_2kLFmdhEJyiziVHM-": {
+      "fvt": false,
+      "meaning": "married ",
+      "word": "conjugal"
+    },
+    "-M_2kuHPF7AvxLhfcynn": {
+      "fvt": false,
+      "meaning": "abnormal desire for wealth and power",
+      "word": "megalomania"
+    },
+    "-M_2lJ6GBSbol_p7D2g-": {
+      "fvt": true,
+      "meaning": "wasteful",
+      "word": "profligate"
+    },
+    "-M_2lfrF6-4LjP1xM2c9": {
+      "fvt": true,
+      "meaning": "conflict or discord",
+      "word": "strife"
+    },
+    "-M_2ltjtq_-eGm8SwkG6": {
+      "fvt": false,
+      "meaning": "a large number",
+      "word": "legion"
+    },
+    "-M_2mDUyOz_nBlhFAw_m": {
+      "fvt": false,
+      "meaning": "pardon",
+      "word": "amnesty"
+    },
+    "-M_2mg8rB3CMsKWtqO9d": {
+      "fvt": false,
+      "meaning": "person who lives outside their native country",
+      "word": "expatriate"
+    },
+    "-M_2ngtPRA3W0Qx7TibP": {
+      "fvt": false,
+      "meaning": "clear or free someone",
+      "word": "exonerate"
+    },
+    "-M_2o3Q7p2D3WxIudCNx": {
+      "fvt": false,
+      "meaning": "decree or an official order",
+      "word": "fiat"
+    },
+    "-M_2oq3F1pl0e_x6Jab0": {
+      "fvt": true,
+      "meaning": "false or untrue",
+      "word": "mendacious"
+    },
+    "-M_2pCmrIaMgPMLlB3vX": {
+      "fvt": true,
+      "meaning": "very unwilling to spend money or resources",
+      "word": "parsimonious"
+    },
+    "-M_2pOb0F-0iHXHHVfmf": {
+      "fvt": false,
+      "meaning": "financial",
+      "word": "pecuniary"
+    },
+    "-M_2pXetBY6_qP7GjU34": {
+      "fvt": false,
+      "meaning": "take apart",
+      "word": "dismantle"
+    },
+    "-M_2pbolx4zYdL1vebUK": {
+      "fvt": false,
+      "meaning": "lavish",
+      "word": "sumptuous"
+    },
+    "-M_2qWb-ur1kII32HRne": {
+      "fvt": false,
+      "meaning": "refuse",
+      "word": "balk"
+    },
+    "-M_2qqqdaHiYcFsYWoai": {
+      "fvt": false,
+      "meaning": "straightforward",
+      "word": "blunt"
+    },
+    "-M_2rGM-zAyAUN2vdKPZ": {
+      "fvt": false,
+      "meaning": "desire or crave",
+      "word": "yearn"
+    },
+    "-M_2s1F2L2uL6p9bctTN": {
+      "fvt": false,
+      "meaning": "widespread",
+      "word": "rife"
+    },
+    "-MaL4zJyfKpGazU2JBai": {
+      "meaning": "tolerant",
+      "word": "lenient"
+    },
+    "-MaL5SP7vpFXRUGq0iUu": {
+      "fvt": false,
+      "meaning": "limitation ",
+      "word": "curb"
+    },
+    "-MaLHOI5JupmaGXssk4Z": {
+      "fvt": false,
+      "meaning": "purifying or providing psychological relief",
+      "word": "cathartic"
+    },
+    "-MaP7Yg-4ouHbJ7IHXEI": {
+      "fvt": false,
+      "meaning": "abvious",
+      "word": "apparent"
+    },
+    "-MaP8UITx-HbF03DZ9BQ": {
+      "fvt": false,
+      "meaning": "rarely or scarcely",
+      "word": "seldom"
+    },
+    "-MaV0vq1C3AOvWWVef4R": {
+      "fvt": true,
+      "meaning": "take apart and repair",
+      "word": "overhaul"
+    },
+    "-MaV5S5SFl6i4hHqcV7y": {
+      "fvt": false,
+      "meaning": "problem",
+      "word": "hurdle"
+    },
+    "-MaV7ldEjsnL9RCrIhou": {
+      "fvt": false,
+      "meaning": "harmful",
+      "word": "detrimental"
+    },
+    "-MaVSHhSbMYaJOcO83he": {
+      "fvt": false,
+      "meaning": "discourage ",
+      "word": "deter"
+    },
+    "-Ma_2XjYbIeEV9aAqEG9": {
+      "fvt": false,
+      "meaning": "cover something",
+      "word": "canopy"
+    },
+    "-Ma_yEIQb5VIXsiaLfuo": {
+      "fvt": false,
+      "meaning": "stubborn",
+      "word": "obstinate"
+    },
+    "-Ma_yW_eIWRRr2leTxwy": {
+      "fvt": false,
+      "meaning": "indulgence or satisfaction",
+      "word": "gratification"
+    },
+    "-Mad18fhhZX3aXE7KIYc": {
+      "fvt": false,
+      "meaning": "criticize",
+      "word": "reviled"
+    },
+    "-Mad27mMFxU0-D0j3yWv": {
+      "fvt": false,
+      "meaning": "belittle or disparaging",
+      "word": "derogatory"
+    },
+    "-Mad2IqIx2t59XmkXU40": {
+      "fvt": false,
+      "meaning": "accuse",
+      "word": "indict"
+    },
+    "-Mad2RJrfiwQ0mpVXAGu": {
+      "fvt": false,
+      "meaning": "unclear or vague",
+      "word": "nebulous"
+    },
+    "-Mad2WknQ5dJOUQc8ZQm": {
+      "fvt": false,
+      "meaning": "annoying",
+      "word": "pesky"
+    },
+    "-Mad3bElLMX39zPiUg5o": {
+      "fvt": true,
+      "meaning": "suggestive or reminiscent",
+      "word": "redolent"
+    },
+    "-Mad3fZ6o2ty2sAJKcKh": {
+      "fvt": false,
+      "meaning": "remind one of something",
+      "word": "reminiscent"
+    },
+    "-Mad47C2TKSaXqOvldGZ": {
+      "fvt": false,
+      "meaning": "different",
+      "word": "disparate"
+    },
+    "-Mad5UaewQnnDE2q2ExD": {
+      "fvt": false,
+      "meaning": "still in existence",
+      "word": "extant"
+    },
+    "-Mad5wjsm3XZ8GKVuQQ4": {
+      "fvt": false,
+      "meaning": "change or transformation",
+      "word": "vicissitude"
+    },
+    "-Mad6F4q4u22kR3CIuSk": {
+      "fvt": false,
+      "meaning": "large building",
+      "word": "edifice"
+    },
+    "-Mad6YIrryaxRT0YSYi_": {
+      "fvt": false,
+      "meaning": "humid or torrid",
+      "word": "sultry"
+    },
+    "-Mad7JFr-CcdgSOm-0M-": {
+      "fvt": false,
+      "meaning": "incisive or sharp",
+      "word": "trenchant"
+    },
+    "-Mad7YJYvBTAak-oJC2Z": {
+      "fvt": true,
+      "meaning": "powerful ",
+      "word": "puissant"
+    },
+    "-Mad8DQ9NgqZfTaxBrJ5": {
+      "fvt": false,
+      "meaning": "become less intense or calm",
+      "word": "subside"
+    },
+    "-Mad8ZB3o0B0LJUMJw8A": {
+      "fvt": false,
+      "meaning": "without any reduction in intensity",
+      "word": "unabated"
+    },
+    "-Mad8jaZ1ke0owwtl-WG": {
+      "fvt": false,
+      "meaning": "emotional or sentimental ",
+      "word": "maudlin"
+    },
+    "-Mad9ADe3UPuixaM_FDv": {
+      "fvt": false,
+      "meaning": "very sad or doleful",
+      "word": "lugubrious"
+    },
+    "-MadAzmEVCPKhnA-DLVb": {
+      "fvt": true,
+      "meaning": "child or descendant",
+      "word": "scion"
+    },
+    "-MadBXwy31H11zZLMMPW": {
+      "fvt": true,
+      "meaning": "persuade ",
+      "word": "indoctrinate"
+    },
+    "-MadBfVcOjPMtLiBpXTk": {
+      "fvt": false,
+      "meaning": "introduce or implant",
+      "word": "inculcate"
+    },
+    "-MadCBKUIxhz3HTSWvml": {
+      "fvt": false,
+      "meaning": "luxury or richness",
+      "word": "opulence"
+    },
+    "-MadDmGuyx1eTGq43HR9": {
+      "fvt": true,
+      "meaning": "attentive to an excessive degree",
+      "word": "obsequious"
+    },
+    "-MadDoNJ4p42QtuPEi67": {
+      "fvt": false,
+      "meaning": " excessive willingness to serve ",
+      "word": "servile"
+    },
+    "-MadFii9bDpcqKBbyH8Q": {
+      "fvt": false,
+      "meaning": "rich or luxuriant ",
+      "word": "lush"
+    },
+    "-MadG3EK9QvHKrWEhvAY": {
+      "fvt": false,
+      "meaning": "poverty",
+      "word": "destitution"
+    },
+    "-MadGOS68ANkeGXXFQll": {
+      "fvt": false,
+      "meaning": "asking or begging for something earnestly",
+      "word": "supplication"
+    },
+    "-MadH0oXuM0S1lGXssZN": {
+      "fvt": false,
+      "meaning": "moral or cultural decline",
+      "word": "decadence"
+    },
+    "-MadJ51p_iZ2GjASpTR0": {
+      "fvt": true,
+      "meaning": "repentance for wrongdoing or atonement ",
+      "word": "penance"
+    },
+    "-MadK4k3qHf3t8BkP3Dj": {
+      "fvt": false,
+      "meaning": "refraining from",
+      "word": "abstinent"
+    },
+    "-MadKWQzpK0ENjfLF270": {
+      "fvt": false,
+      "meaning": "lacking a plan or enthusiasm",
+      "word": "desultory"
+    },
+    "-MadKmg2_EaJeNeK09pb": {
+      "fvt": false,
+      "meaning": "follower",
+      "word": "disciple"
+    },
+    "-MadL4H9-4go1hd-Ffg7": {
+      "fvt": false,
+      "meaning": "change or mutation ",
+      "word": "metamorphosis"
+    },
+    "-MadLQcdQiqXNowYl4Gz": {
+      "fvt": false,
+      "meaning": "genuine or real",
+      "word": "bona fide"
+    },
+    "-MadM2wM2uPUOB2fPqfv": {
+      "fvt": false,
+      "meaning": "rescue or set free",
+      "word": "deliverance"
+    },
+    "-MadMUMUnP3SDwAw8L3h": {
+      "fvt": false,
+      "meaning": "deliverance from harm",
+      "word": "salvation"
+    },
+    "-MadMtl8zwcyTc3qLF3T": {
+      "fvt": false,
+      "meaning": "paradise ",
+      "word": "nirvana"
+    },
+    "-MafDL01xLKDFBfniSzv": {
+      "fvt": false,
+      "meaning": "represent or add up to or be",
+      "word": "constitute "
+    },
+    "-MafmjZUaPTXFA7BHyYr": {
+      "fvt": false,
+      "meaning": "admit or surrender",
+      "word": "concede"
+    },
+    "-MafxQn4l2MSgRpiqiia": {
+      "fvt": false,
+      "meaning": "summon or call",
+      "word": "convene"
+    },
+    "-Map8TqSUP0rN_rIJQMb": {
+      "fvt": false,
+      "meaning": "age after teenage ",
+      "word": "adolescent"
+    },
+    "-Map9dYAk8HTz-MGYSPA": {
+      "fvt": false,
+      "meaning": "bad after effect ",
+      "word": "repercussion"
+    },
+    "-MapvP2AKnl3v9LjJukv": {
+      "fvt": false,
+      "meaning": "extract from movie,text,song",
+      "word": "excerpt"
+    },
+    "-MasSzfmJN_R_FS_k-hQ": {
+      "fvt": true,
+      "meaning": "imprison",
+      "word": "incarcerate"
+    },
+    "-MatCIDmelr3ZhjFT2Yq": {
+      "fvt": false,
+      "meaning": "reduce",
+      "word": "alleviate"
+    },
+    "-MatTv_CKWKC5fWc2G7j": {
+      "fvt": false,
+      "meaning": "seizure or paroxsym",
+      "word": "convulsion"
+    },
+    "-Mat__UTGUaJtT82sLjm": {
+      "fvt": false,
+      "meaning": "love and affection",
+      "word": "adore"
+    },
+    "-Mata9U47VY1XlhCakZj": {
+      "fvt": true,
+      "meaning": "noticeable or visible",
+      "word": "palpable"
+    },
+    "-MatkQS1Atp36m8VsaXF": {
+      "fvt": false,
+      "meaning": "to a great extent",
+      "word": "substantially"
+    },
+    "-MatkeJRCO73NKUqLHEg": {
+      "meaning": "get rid of or obviate",
+      "word": "eradicate"
+    },
+    "-Matkrd4n28-hKrVDhYb": {
+      "meaning": "increase",
+      "word": "escalate"
+    },
+    "-Matl4Y019fJgba87DON": {
+      "fvt": false,
+      "meaning": "intensely ",
+      "word": "vigorously "
+    },
+    "-MatlMrHYaI3njoZY5y3": {
+      "fvt": true,
+      "meaning": "crucial or necessary ",
+      "word": "imperative"
+    },
+    "-Matld7ClMQ1LH4btwwW": {
+      "fvt": false,
+      "meaning": "sufficient  or adequate ",
+      "word": "ample"
+    },
+    "-MatlrC-iAQA27fSiit7": {
+      "fvt": false,
+      "meaning": "unavoidable ",
+      "word": "inevitable"
+    },
+    "-Matm2Vmv-NquVdOSf5e": {
+      "meaning": "only or just",
+      "word": "merely"
+    },
+    "-MatmYWygyQYicPz08nd": {
+      "fvt": false,
+      "meaning": "reduce",
+      "word": "mitigate"
+    },
+    "-Matmi0LZY2EJWL3VMqg": {
+      "fvt": false,
+      "meaning": "hazard or drawback",
+      "word": "pitfall"
+    },
+    "-Matn9VLhlhm--CcRfFo": {
+      "fvt": false,
+      "meaning": "deduce",
+      "word": "infer"
+    },
+    "-MatnMXRxA8jh9UIDJJ2": {
+      "fvt": false,
+      "meaning": "should or must",
+      "word": "ought to"
+    },
+    "-Matns46UqfhRWTCxpY_": {
+      "fvt": false,
+      "meaning": "previously mentioned",
+      "word": "aforementionedd"
+    },
+    "-Mato16hONctwqB4XK45": {
+      "fvt": false,
+      "meaning": "law",
+      "word": "legislation"
+    },
+    "-Matod3YAIT-cb70CKgf": {
+      "fvt": false,
+      "meaning": "afterwards or later on",
+      "word": "subsequently"
+    },
+    "-Mau2KILk7BLhr-va1rA": {
+      "fvt": false,
+      "meaning": "worsen or decline",
+      "word": "deteriorate"
+    },
+    "-MauOtMMQMX7eEci9xIL": {
+      "fvt": false,
+      "meaning": "pristine or spotless",
+      "word": "immaculate"
+    },
+    "-Maymtk43dB4BZIK5y3M": {
+      "fvt": true,
+      "meaning": "come before or lead up to",
+      "word": "precede"
+    },
+    "-Mayn0J1caXy8B0cg4hu": {
+      "meaning": "give special importance",
+      "word": "emphasize"
+    },
+    "-MaypbVdwGPiC0SyP6fn": {
+      "meaning": "as a result",
+      "word": "consequently"
+    },
+    "-Mb0lAsLfDp51dH_cm9y": {
+      "fvt": true,
+      "meaning": "a lot or plentiful ",
+      "word": "profuse"
+    },
+    "-Mb3kklQn6-hssM1Afbf": {
+      "fvt": true,
+      "meaning": "prudent or wise person or wise",
+      "word": "sage"
+    },
+    "-Mb4jeqsrNJ2KbR_EhV0": {
+      "fvt": false,
+      "meaning": "estimation or judgement",
+      "word": "appraisal"
+    },
+    "-Mb4k70TOVhyMTUWyp3h": {
+      "meaning": "various",
+      "word": "diverse"
+    },
+    "-MbCP5G3Vd28GawHvmSf": {
+      "fvt": false,
+      "meaning": "steal",
+      "word": "embezzle"
+    },
+    "-MbCPC0FjJD1vBY1_qQh": {
+      "fvt": true,
+      "meaning": "unpleasant or embarrassing situation",
+      "word": "predicament"
+    },
+    "-MbCTD54-gXnnhT1gpbW": {
+      "fvt": false,
+      "meaning": "lazy",
+      "word": "indolent "
+    },
+    "-MbTeF8xcScyhc9Hoxoe": {
+      "meaning": "facility",
+      "word": "amenity"
+    },
+    "-MbWARYXbaJtWdrh8ulr": {
+      "meaning": "sweat ",
+      "word": "perspiration"
+    },
+    "-MbWAtKxXcvGS4Tm_R_7": {
+      "meaning": "flow or discharge",
+      "word": "ooze"
+    },
+    "-MbWEfNh5eq2p1rlWzhS": {
+      "fvt": true,
+      "meaning": "summarize or review",
+      "word": "recapitulate"
+    },
+    "-MbcLU6guiXL8ga-OwE0": {
+      "fvt": false,
+      "meaning": "lower in rank,status or quality",
+      "word": "inferior"
+    },
+    "-MbfPfhRTLienSu6pKW3": {
+      "fvt": true,
+      "meaning": "ruin or spoil",
+      "word": "mar"
+    },
+    "-MbgQvAsfv8nXBIpf2SI": {
+      "meaning": "unclear",
+      "word": "vague"
+    },
+    "-MboC2ow5ctUdHTfmvOu": {
+      "fvt": true,
+      "meaning": "public false statement or defamation",
+      "word": "libel"
+    },
+    "-McBNTWhLOqBb3UL4NCZ": {
+      "fvt": false,
+      "meaning": "start",
+      "word": "commencement"
+    },
+    "-McTKJgrl1f9EADWeoor": {
+      "fvt": true,
+      "meaning": "obtain or get",
+      "word": "procure"
+    },
+    "-MdXo1sYUVL39h3FXhs9": {
+      "fvt": true,
+      "meaning": "predicament or trouble",
+      "word": "plight"
+    },
+    "-MdXoTgB3B5IySzIWE5c": {
+      "fvt": false,
+      "meaning": "secret or hidden",
+      "word": "covert"
+    },
+    "-MdXowPjFxf91nSQvSXQ": {
+      "fvt": false,
+      "meaning": "disabled or made unfit",
+      "word": "incapacitated"
+    },
+    "-MdXpIANBBJRN7-F5tHY": {
+      "fvt": false,
+      "meaning": "object or protest",
+      "word": "demur"
+    },
+    "-MdXpRP9GqPnHsxINJ2j": {
+      "fvt": false,
+      "meaning": "name or title",
+      "word": "appellation"
+    },
+    "-MdXq5KUeUxX_l6o9AKI": {
+      "fvt": true,
+      "meaning": "little known or obscure or unclear",
+      "word": "recondite"
+    },
+    "-MdXqcZ3zlnsqZhjKEQ9": {
+      "fvt": true,
+      "meaning": "cover or conceal ",
+      "word": "palliate"
+    },
+    "-MdXqm6BGsvf_7-kQLXz": {
+      "fvt": false,
+      "meaning": "to fool",
+      "word": "delude"
+    },
+    "-MdXrDsKLsaU19kqNqqZ": {
+      "fvt": true,
+      "meaning": "introduction ",
+      "word": "prelude"
+    },
+    "-MdXs3T2hjAPw9efsIbW": {
+      "fvt": true,
+      "meaning": "understanding of things or shrewd",
+      "word": "perspicacious"
+    },
+    "-MdXszuR3y14Ken855-z": {
+      "fvt": true,
+      "meaning": "liable",
+      "word": "susceptible"
+    },
+    "-MdXtEMiztFft2PywYph": {
+      "fvt": false,
+      "meaning": "teacher or master",
+      "word": "pedagogue"
+    },
+    "-MdXtRlv_BKPZMlsGT6g": {
+      "fvt": true,
+      "meaning": "pronounce or utter",
+      "word": "enunciate"
+    },
+    "-MdXtekEWwxC7HbiM5La": {
+      "fvt": true,
+      "meaning": "excessive ",
+      "word": "inordinate"
+    },
+    "-MdXtlUGyujhSPA4Sth-": {
+      "fvt": true,
+      "meaning": "irritable ",
+      "word": "irascible"
+    },
+    "-MdXukQS56S4DP-Xm7Md": {
+      "fvt": true,
+      "meaning": "looking into one’s own feelings",
+      "word": "introspective"
+    },
+    "-MdXvEj7kkaa0KUTFDk_": {
+      "fvt": false,
+      "meaning": "keep going",
+      "word": "perpetuate"
+    },
+    "-MdXvtTD08j6omD-enMl": {
+      "meaning": "disastrous ",
+      "word": "catastrophic"
+    },
+    "-MdhKwO1jaSoK0ulYiAw": {
+      "meaning": "an object made by hand",
+      "word": "artifact"
+    },
+    "-MdhLOVOyTY7FXeCnSK5": {
+      "meaning": "lifeless",
+      "word": "inanimate"
+    },
+    "-MdhMCDZTmW7bMnk7L6f": {
+      "fvt": true,
+      "meaning": "unwise",
+      "word": "imprudent"
+    },
+    "-MdhMajk99L2I9PkhQQV": {
+      "fvt": true,
+      "meaning": "hint or contaminate ",
+      "word": "taint"
+    },
+    "-MdhO4GpvfEbWibyKKRh": {
+      "fvt": false,
+      "meaning": "dislike or detest or abominate",
+      "word": "abhor "
+    },
+    "-MdhOWlD_4A2qlJ9mlD-": {
+      "fvt": false,
+      "meaning": "disrespectful ",
+      "word": "contemptuous"
+    },
+    "-MdhPFVNLrThT1rqWbPh": {
+      "fvt": true,
+      "meaning": "untouchable or absolute",
+      "word": "inviolable"
+    },
+    "-MdhRX5QBuFtikFroWH7": {
+      "fvt": true,
+      "meaning": "dishonourable",
+      "word": "deplorable"
+    },
+    "-MdhRoWNt6ekw6J-zxlW": {
+      "fvt": false,
+      "meaning": "fire or blaze",
+      "word": "conflagration"
+    },
+    "-MdhS_N-81_A3sE0HpRJ": {
+      "fvt": false,
+      "meaning": "like-minded or pleasant ",
+      "word": "congenial"
+    },
+    "-MdhT-yviZGXKcIgRdhm": {
+      "fvt": false,
+      "meaning": "stock or reserve",
+      "word": "hoard"
+    },
+    "-MdhTMHugUG1kvC_QCpW": {
+      "fvt": false,
+      "meaning": "sponsorship or backing",
+      "word": "aegis"
+    },
+    "-MdhTXEEeO9IAAURKDAE": {
+      "meaning": "long life",
+      "word": "longevity"
+    },
+    "-MdhTkSXxW3aUnrgb8we": {
+      "fvt": false,
+      "meaning": "drink or absorb ",
+      "word": "imbibe"
+    },
+    "-MdhTyW1OMdepL6X3czI": {
+      "fvt": false,
+      "meaning": "manly ",
+      "word": "virile"
+    },
+    "-MdhUVj7E_40iQSOME1s": {
+      "meaning": "weak from old age",
+      "word": "senile "
+    },
+    "-MdhUrAWLZhBPmdJ4sUE": {
+      "fvt": false,
+      "meaning": "feeble or shaky due to old age",
+      "word": "doddering"
+    },
+    "-MdzBJwZ6pe76Q7piF2N": {
+      "meaning": "persistent or stubborn",
+      "word": "adamant"
+    },
+    "-MetiRDJVN5ddhMJsNzG": {
+      "fvt": false,
+      "meaning": "home",
+      "word": "abode"
+    },
+    "-Mg-ywUZylTz7_m4Du-O": {
+      "fvt": false,
+      "meaning": "display",
+      "word": "flaunt"
+    },
+    "-MgGaExbrOuvEf6Af3Ou": {
+      "meaning": "danger or risk",
+      "word": "peril"
+    },
+    "-MglpyegoDDydeZDFTj5": {
+      "meaning": "wildlife for exhibition",
+      "word": "menagerie"
+    },
+    "-MmZRz0Kc1PXPBqlvyxv": {
+      "meaning": "lonely or unaccompanied ",
+      "word": "solitary"
+    },
+    "-Mt-mZk6-q0K5wlWkG4M": {
+      "fvt": false,
+      "meaning": "trap or capture",
+      "word": "ensnare"
+    },
+    "-Mt5Kj5dho3GWJmVD_SG": {
+      "fvt": true,
+      "meaning": "think deeply",
+      "word": "ruminate"
+    },
+    "-Mt5O3lTH6rzDuBZSyqV": {
+      "meaning": "corrupt or decline ",
+      "word": "degenerate"
+    },
+    "-MtOBMC7J_pWdTKIEbkg": {
+      "fvt": true,
+      "meaning": "enthusiastic or fervid",
+      "word": "ardent "
+    },
+    "-MtODlKXopqqk0r2ON2_": {
+      "fvt": true,
+      "meaning": "exonerate or acquit or free from blame",
+      "word": "vindicate"
+    },
+    "-MtOLQwcgFb5DS5BeEjs": {
+      "fvt": true,
+      "meaning": "erase ",
+      "word": "efface"
+    },
+    "-MtOgNfNJ46AWTUNL5RB": {
+      "meaning": "represent better or worse than it really is",
+      "word": "exaggerate"
+    },
+    "-MttW7x7ar8L13ltx2gt": {
+      "fvt": false,
+      "meaning": "avoid or bypass",
+      "word": "circumvent"
+    },
+    "-MtwzuEfXeqrIvDTmOmI": {
+      "fvt": true,
+      "meaning": "common or general ",
+      "word": "prevalent"
+    },
+    "-Mu13DexHCMg7Q-rvcoQ": {
+      "fvt": true,
+      "meaning": "request or plea",
+      "word": "entreaty"
+    },
+    "-Mu14my5Oj9Ysmc2TTI4": {
+      "fvt": true,
+      "meaning": "negligent or careless",
+      "word": "remiss"
+    },
+    "-Mu15bSvKPZ6mKJiVPwE": {
+      "fvt": false,
+      "meaning": "dislike or hate ",
+      "word": "aversion"
+    },
+    "-Mu15hMXWz3xjVOK9scI": {
+      "fvt": true,
+      "meaning": " lack of enthusiasm",
+      "word": "disinclination"
+    },
+    "-Mu160Xw5426WW9r6ptQ": {
+      "fvt": true,
+      "meaning": "show or reveal",
+      "word": "evince"
+    },
+    "-Mu17b04tpDN3mITLhkh": {
+      "fvt": true,
+      "meaning": "innate or native",
+      "word": "intrinsic "
+    },
+    "-Mu17tYKFK9mmyBzuYQl": {
+      "fvt": false,
+      "meaning": "essence or main point ",
+      "word": "gist"
+    },
+    "-Mu18HXKKjW2aRiJNDDi": {
+      "fvt": false,
+      "meaning": "brief ",
+      "word": "terse"
+    },
+    "-Mu18f6uOpoKg5GB6jg6": {
+      "fvt": false,
+      "meaning": "strong or persuasive",
+      "word": "cogent"
+    },
+    "-Mu18yFzhCDv_yVrDm1B": {
+      "fvt": true,
+      "meaning": "peak ",
+      "word": "pinnacle"
+    },
+    "-Mu1AE99kzUz1ZlEtukT": {
+      "fvt": true,
+      "meaning": "reach the highest point",
+      "word": "culminate"
+    },
+    "-Mu1AqRHOgNF7eFgb8Z7": {
+      "fvt": true,
+      "meaning": "narrow or tighten ",
+      "word": "constrict "
+    },
+    "-Mu1C6A-0imtm6wiWu4n": {
+      "meaning": "master at young age or wunderkind",
+      "word": "prodigy"
+    },
+    "-Mu1CnRAdn1Ksd3TVXzu": {
+      "fvt": false,
+      "meaning": "deprived of or lacking",
+      "word": "bereft"
+    },
+    "-Mu1DkpQFwgPVfSC3g31": {
+      "fvt": false,
+      "meaning": "hesitate or pause",
+      "word": "falter"
+    },
+    "-Mu1EX-JrK_LBHnKQWhK": {
+      "fvt": true,
+      "meaning": "happy or delighted ",
+      "word": "elate"
+    },
+    "-Mu1FM2pWiPl0ceux2G9": {
+      "fvt": false,
+      "meaning": "bitter or mordant or acerbic ",
+      "word": "vitriolic"
+    },
+    "-Mu1G9HhrGDAw-UGQn8R": {
+      "fvt": true,
+      "meaning": "abuse or insult language or swearing ",
+      "word": "invective"
+    },
+    "-Mu1GT6JjvqpXMo7RkP6": {
+      "fvt": false,
+      "meaning": "tarnish or stain",
+      "word": "besmirch"
+    },
+    "-Mu1H7QQkmYg9piqmOL4": {
+      "fvt": false,
+      "meaning": "commodious or capacious or large",
+      "word": "voluminous "
+    },
+    "-Mu1HE8OEX-bkxrTVx7s": {
+      "fvt": true,
+      "meaning": "search unsystematically and untidily",
+      "word": "rummage "
+    },
+    "-Mu1HorHhqClUIdTHwPa": {
+      "fvt": true,
+      "meaning": "review of a past events",
+      "word": "retrospect"
+    },
+    "-Mu1IopoSl7jHJnn2mLa": {
+      "fvt": true,
+      "meaning": " pride in oneself or self love",
+      "word": "conceit"
+    },
+    "-Mu1Jav-4R50dYiMLW9T": {
+      "fvt": false,
+      "meaning": "modesty or meekness",
+      "word": "humility "
+    },
+    "-Mu1KvoV7frCp1E4gVhN": {
+      "fvt": true,
+      "meaning": "establish or ensconce",
+      "word": "entrench"
+    },
+    "-Mu1Lc4PlefoaAXjjxFY": {
+      "fvt": true,
+      "meaning": "strong (flavor or smell)",
+      "word": "pungent "
+    },
+    "-Mu1MRTeW9B37QQxc7HS": {
+      "fvt": true,
+      "meaning": "deep rooted or ingrained ",
+      "word": "inveterate "
+    },
+    "-Mu1MccgsDUzlntpEHRU": {
+      "meaning": "minor or insignificant",
+      "word": "trivial"
+    },
+    "-Mu1VCN0WIkKh3ojfyCx": {
+      "fvt": false,
+      "meaning": "kind or friendly ",
+      "word": "benign"
+    },
+    "-MuBrYqVA21nNqUoR17o": {
+      "fvt": false,
+      "meaning": "supporter or advocate",
+      "word": "adherent"
+    },
+    "-MuBtadBJCIP_df7Il-Y": {
+      "fvt": true,
+      "meaning": "adjure or request someone",
+      "word": "exhort"
+    },
+    "-MuBu5R3NV6VoYrxegHH": {
+      "fvt": false,
+      "meaning": "lack on interest or enthusiasm ",
+      "word": "apathy"
+    },
+    "-MuBuTRshv1_pltW6p9Y": {
+      "fvt": true,
+      "meaning": "quarrel or melee ",
+      "word": "fracas"
+    },
+    "-MuBujFYtG5t-kA9fJ4J": {
+      "fvt": true,
+      "meaning": "drunk or intoxicated ",
+      "word": "inebriate"
+    },
+    "-MuBv2DGUO1z6SXpaltp": {
+      "fvt": false,
+      "meaning": "opponent or rival",
+      "word": "adversary "
+    },
+    "-MuBwnjRGnCe7tgmvLme": {
+      "fvt": true,
+      "meaning": "verbose or wordy or talkative ",
+      "word": "garrulous"
+    },
+    "-MuBxcXawOtjUXi-35o5": {
+      "fvt": false,
+      "meaning": "trite or cliche ",
+      "word": "banal"
+    },
+    "-MuC-8YdfQ5O4sOTrUDi": {
+      "fvt": false,
+      "meaning": "amateur ",
+      "word": "dilettante "
+    },
+    "-MuC00vS-Xa6YOhFxQkN": {
+      "fvt": true,
+      "meaning": "featureless or unremarkable ",
+      "word": "nondescript"
+    },
+    "-MuC0JWzb4aqBNH7mE93": {
+      "fvt": true,
+      "meaning": "decrease",
+      "word": "wane"
+    },
+    "-MuC0lBIfGgWu2suK94i": {
+      "fvt": true,
+      "meaning": "perfect or ideal",
+      "word": "idyllic"
+    },
+    "-MuC0qhWop9zytFQjy25": {
+      "fvt": true,
+      "meaning": "tranquil or serene ",
+      "word": "halcyon"
+    },
+    "-MuC1XOG4NQQ0yD9DvBN": {
+      "fvt": true,
+      "meaning": "burden ",
+      "word": "encumbrance "
+    },
+    "-MuC35-mZ3b0PhUSHhWT": {
+      "fvt": true,
+      "meaning": "open and honest",
+      "word": "candour"
+    },
+    "-MuC3iXBV30osIaPZoJS": {
+      "fvt": true,
+      "meaning": "playful or humorous",
+      "word": "jocose"
+    },
+    "-MuC47zBzGFFAP5JaObP": {
+      "fvt": true,
+      "meaning": "harmful or bad or inimical ",
+      "word": "malign"
+    },
+    "-MuC4_g4itRanzx3XhJc": {
+      "fvt": true,
+      "meaning": "supreme or almighty ",
+      "word": "omnipotent"
+    },
+    "-MuC4dVInludj-14Podq": {
+      "fvt": false,
+      "meaning": "kind",
+      "word": "benevolent"
+    },
+    "-MuC4pZ4wNdXWFaMUBQI": {
+      "fvt": false,
+      "meaning": "high point or top",
+      "word": "zenith"
+    },
+    "-MuC66KLLCDu096ZB4-N": {
+      "fvt": true,
+      "meaning": "bully ",
+      "word": "domineer"
+    },
+    "-MuC6_ufDJYYCRr1goKK": {
+      "fvt": true,
+      "meaning": "arrogant ",
+      "word": "imperious "
+    },
+    "-MuC7xs9cxb3poQFmXwu": {
+      "fvt": true,
+      "meaning": "final or bossy ",
+      "word": "peremptory "
+    },
+    "-MuC8VpxtEpwUQmOrF0Q": {
+      "fvt": true,
+      "meaning": "example or model",
+      "word": "precedent "
+    },
+    "-MuC9G2ymP2l9mSyHVP5": {
+      "fvt": false,
+      "meaning": "coax or cajole or persuade ",
+      "word": "wheedle"
+    },
+    "-MuC9YNO30UQWT5XYYiY": {
+      "fvt": true,
+      "meaning": "plain and simple",
+      "word": "rustic "
+    },
+    "-MuC9kyKGkR2lh5W_Od3": {
+      "fvt": true,
+      "meaning": "joyful",
+      "word": "jubilant"
+    },
+    "-MuCApSIAxCDdP8AP2no": {
+      "fvt": false,
+      "meaning": "etiquette or decency or propriety",
+      "word": "decorum"
+    },
+    "-MuCBEWR_gX6rFpl-R5C": {
+      "fvt": false,
+      "meaning": "fraud ",
+      "word": "charlatan "
+    },
+    "-MuIFIAR1TsblQb3r8aO": {
+      "fvt": false,
+      "meaning": "bad luck ",
+      "word": "adversity"
+    },
+    "-MuNjZHOt26dgbfuA-QC": {
+      "fvt": true,
+      "meaning": "refresh or energize ",
+      "word": "invigorate"
+    },
+    "-MukaRvG45RpjVnkMksw": {
+      "fvt": true,
+      "meaning": "lack of interest",
+      "word": "indifference"
+    },
+    "-MukmebxbKEwZ6jnqwgz": {
+      "fvt": true,
+      "meaning": "opinion contrary to generally accepted or dissent",
+      "word": "heresy"
+    },
+    "-MukmxoXcSGHlFDPg525": {
+      "fvt": true,
+      "meaning": "appearing to be true but not necessarily so",
+      "word": "ostensible"
+    },
+    "-MukninF__V5MMtJLRLD": {
+      "fvt": true,
+      "meaning": "false or factitious",
+      "word": "spurious"
+    },
+    "-MukoGqZg9M9dDlwuU98": {
+      "fvt": true,
+      "meaning": "harmless ",
+      "word": "innocuous"
+    },
+    "-MukoWDo3OTopZx-0EcO": {
+      "fvt": true,
+      "meaning": "excess or abundance",
+      "word": "surfeit"
+    },
+    "-MukolioI0U54ylxQCiy": {
+      "fvt": true,
+      "meaning": "background or setting",
+      "word": "milieu "
+    },
+    "-Mukp2iQ67wSo12ZdL4X": {
+      "fvt": true,
+      "meaning": "rough ",
+      "word": "strident"
+    },
+    "-MukpTByJ6plN89qBUdk": {
+      "fvt": true,
+      "meaning": "associated",
+      "word": "concomitant"
+    },
+    "-Mukpl0Dq276kmw4qtNF": {
+      "fvt": true,
+      "meaning": "fatigue ",
+      "word": "lassitude "
+    },
+    "-MukpwARBzfNULIQ-D2q": {
+      "fvt": true,
+      "meaning": "harmful or ",
+      "word": "deleterious"
+    },
+    "-MukrEJW_Wk9DxbgmUke": {
+      "fvt": true,
+      "meaning": "incite or stir up",
+      "word": "ferment"
+    },
+    "-MukrremANjWZfuQoVze": {
+      "fvt": true,
+      "meaning": "weaken or reduce",
+      "word": "attenuate"
+    },
+    "-Muks1bMMeDnZjRU1QOC": {
+      "fvt": true,
+      "meaning": "judge or authority ",
+      "word": "arbiter"
+    },
+    "-Mukt9IjzzBz6thkId_c": {
+      "fvt": true,
+      "meaning": "necessary or current",
+      "word": "incumbent"
+    },
+    "-MukttV-Ckpp-_oZfdgb": {
+      "fvt": true,
+      "meaning": "great",
+      "word": "profound"
+    },
+    "-MukuYlktnihIHZm-bFN": {
+      "fvt": true,
+      "meaning": "unnatural or immense ",
+      "word": "prodigious"
+    },
+    "-MukuswZG8IkSOZ5SQHh": {
+      "fvt": true,
+      "meaning": "speed up",
+      "word": "expedite"
+    },
+    "-MukwlRWhR5AmwDXy9op": {
+      "fvt": true,
+      "meaning": "speed or quickness",
+      "word": "celerity"
+    },
+    "-MukyAX2mGzvYQZHUm0I": {
+      "fvt": true,
+      "meaning": "seize or remove",
+      "word": "usurp"
+    },
+    "-MukyKdN7t8H5RXjyeLi": {
+      "fvt": false,
+      "meaning": "add as extra or extension",
+      "word": "annex"
+    },
+    "-MukzAISdTEBK2q6rw7P": {
+      "fvt": true,
+      "meaning": "small or insignificant",
+      "word": "paltry "
+    },
+    "-Mul-MgUM3ElVPOfxFFA": {
+      "fvt": false,
+      "meaning": "accept",
+      "word": "condone "
+    },
+    "-Mul-aOiau2C0aqzV2DP": {
+      "fvt": false,
+      "meaning": "strange",
+      "word": "bizarre"
+    },
+    "-Mul0guzQvAlxnm3I86P": {
+      "fvt": true,
+      "meaning": "unskilled or degrading",
+      "word": "menial "
+    },
+    "-Mul0uCp4giNmxgnwCdx": {
+      "fvt": false,
+      "meaning": "seek or look for",
+      "word": "sought"
+    },
+    "-Mul1cooNhLSgUp7zcOx": {
+      "fvt": true,
+      "meaning": "respected or revered",
+      "word": "venerable "
+    },
+    "-Mul1xp-AyC9p-lQfLwo": {
+      "fvt": true,
+      "meaning": "irrelevant",
+      "word": "extraneous"
+    },
+    "-Mul2DWoBb260a-leROV": {
+      "fvt": true,
+      "meaning": "concise or brief",
+      "word": "succinct"
+    },
+    "-Mul2SAKOekczJs-nYiX": {
+      "fvt": true,
+      "meaning": "out of date or obsolete",
+      "word": "archaic"
+    },
+    "-Mul3Gl0ltN5kT-Kj7GZ": {
+      "fvt": true,
+      "meaning": "flippant or treating serious issues with deliberately inappropriate humour",
+      "word": "facetious"
+    },
+    "-Mul4AsUx23jj9wR9CgQ": {
+      "fvt": true,
+      "meaning": "extreme or fanatical or mad",
+      "word": "rabid"
+    },
+    "-Mul4ZX0561krQmG05sr": {
+      "fvt": true,
+      "meaning": "healthy or pleasant ",
+      "word": "salubrious"
+    },
+    "-MusQYhAP-Z1rqDYMur0": {
+      "fvt": true,
+      "meaning": "evil or malicious",
+      "word": "malevolent"
+    },
+    "-MusQoP7C2ojAhOYh1P1": {
+      "fvt": true,
+      "meaning": "dramatic",
+      "word": "histrionic"
+    },
+    "-Muv0KC05WmffjpSftyj": {
+      "fvt": true,
+      "meaning": "not easily understood",
+      "word": "equivocal"
+    },
+    "-Muv1hDBZIKuEkwHsSdF": {
+      "fvt": true,
+      "meaning": "make less intense",
+      "word": "assuage"
+    },
+    "-Muv25B4eU0JRVIGnr8B": {
+      "fvt": true,
+      "meaning": "having or showing great knowledge ",
+      "word": "erudite"
+    },
+    "-Muv2_ZnWcUGgDJamTM0": {
+      "fvt": true,
+      "meaning": "wastefully extravagant or profligate",
+      "word": "prodigal"
+    },
+    "-Muv39Te51jg6aLnsih8": {
+      "fvt": true,
+      "meaning": "passionate or enthusiastic ",
+      "word": "vehement"
+    },
+    "-Muv3jBwhxM6LRzNMMQ8": {
+      "fvt": true,
+      "meaning": "make less angry or conciliate or appease or pacify or mollify",
+      "word": "placate"
+    },
+    "-Muv4RLf5kCubAL43beR": {
+      "fvt": true,
+      "meaning": "a strong feeling or interest or ardour or fervour",
+      "word": "zeal"
+    },
+    "-Muv4sqP5f02SlkP_z63": {
+      "fvt": true,
+      "meaning": "brave or disrespectful ",
+      "word": "audacious"
+    },
+    "-Muv55n-6VDy6IHSlt1G": {
+      "fvt": true,
+      "meaning": "remove moisture or dehydrate",
+      "word": "desiccate"
+    },
+    "-Muv5pkf2mf9v5m3H3sr": {
+      "fvt": true,
+      "meaning": "excessively concerned with minor details",
+      "word": "pedant"
+    },
+    "-Muv6OpKc6mZK_gVkccS": {
+      "fvt": true,
+      "meaning": "confused between different options",
+      "word": "vacillate"
+    },
+    "-Muv75baai197WteMziQ": {
+      "fvt": true,
+      "meaning": "make impure or inferior in quality or debase or degrade",
+      "word": "adulterate"
+    },
+    "-Muv7V0jwal1fSgGBDzr": {
+      "fvt": true,
+      "meaning": "sudden changes of mood or erratic",
+      "word": "capricious"
+    },
+    "-Muv7j1Dp06ogNSr9Cb5": {
+      "fvt": true,
+      "meaning": "generate or provoke",
+      "word": "engender"
+    },
+    "-Muv7yNoEXjCpyKRyA-Q": {
+      "fvt": true,
+      "meaning": "consistent or alike",
+      "word": "homogenous"
+    },
+    "-Muv8DQqQKPtXdFOxfnd": {
+      "fvt": true,
+      "meaning": "talkative ",
+      "word": "loquacious"
+    },
+    "-Muv8_V_gCn_p3f2W7zb": {
+      "fvt": true,
+      "meaning": "practical",
+      "word": "pragmatic"
+    },
+    "-Muv9FlSFNFNTIe05zKq": {
+      "fvt": true,
+      "meaning": "lasting for a short time or brief",
+      "word": "ephemeral"
+    },
+    "-MuvA-aKIUCcj5MQHkWI": {
+      "fvt": true,
+      "meaning": "harsh noise or clamour",
+      "word": "cacophony"
+    },
+    "-MuvAk2MoOxyzaL1m_UK": {
+      "fvt": true,
+      "meaning": "weaken or exhaust",
+      "word": "enervate"
+    },
+    "-MuvB1GQGK33cDSu1srN": {
+      "fvt": true,
+      "meaning": "innocent",
+      "word": "ingenuous"
+    },
+    "-MuvBre2y1Psg-QTpKMW": {
+      "fvt": true,
+      "meaning": "one who dislike, avoid people",
+      "word": "misanthrope"
+    },
+    "-MuvCI5BB0-X-_qNM1I-": {
+      "fvt": true,
+      "meaning": "contradiction",
+      "word": "paradox"
+    },
+    "-MuvCk5jgHwqHIs-l8eW": {
+      "fvt": true,
+      "meaning": "show respect or exalt",
+      "word": "venerate"
+    },
+    "-MuvDg5Riz3_QI-vmNj4": {
+      "fvt": true,
+      "meaning": "dislike or hate or animosity",
+      "word": "antipathy"
+    },
+    "-MuvE1Evj5yJyFrAaC2S": {
+      "fvt": false,
+      "meaning": "tribute or speech after someone died",
+      "word": "eulogy"
+    },
+    "-MuvEXJV8zLEUxIFO8Xk": {
+      "fvt": true,
+      "meaning": "intransigent or obstinate",
+      "word": "obdurate"
+    },
+    "-MuvF4Cx3Ar2kJL--okf": {
+      "fvt": true,
+      "meaning": "support or strengthen",
+      "word": "bolster"
+    },
+    "-MuvG3Ev6rTDiTNz-mWC": {
+      "fvt": true,
+      "meaning": "conflict or incongruity",
+      "word": "dissonance"
+    },
+    "-MuvGfnTTVrihVrAMmJl": {
+      "fvt": true,
+      "meaning": "easily influenced or pliable",
+      "word": "malleable"
+    },
+    "-MvEt9vJGRJlX3OHQHAq": {
+      "fvt": true,
+      "meaning": "self satisfied",
+      "word": "complacent"
+    },
+    "-MvEu-30YKUlUXDq-3gC": {
+      "fvt": true,
+      "meaning": "dull or sad",
+      "word": "sombre"
+    },
+    "-MvEuLm37-tsyYDOupUn": {
+      "fvt": true,
+      "meaning": "weaken or enfeebling",
+      "word": "debilitate"
+    },
+    "-MvEv-h9hjYaqbLdwk-E": {
+      "fvt": true,
+      "meaning": "rash or impulsive",
+      "word": "impetuous "
+    },
+    "-MvEvUxrpxDy7U-DQyJq": {
+      "fvt": true,
+      "meaning": "supernatural or mysterious",
+      "word": "occult"
+    },
+    "-MvEvtDzBC_XSpkYv6iY": {
+      "fvt": true,
+      "meaning": "cautious or subtle",
+      "word": "discreet"
+    },
+    "-MvEw92v6UJ-VZWYdk4a": {
+      "meaning": "instigate or provoke",
+      "word": "foment"
+    },
+    "-MvEwYWUv7-DLWMSpC02": {
+      "fvt": true,
+      "meaning": "obtain or get",
+      "word": "glean"
+    },
+    "-MvEx1A-ZVu3fsOHSc93": {
+      "fvt": true,
+      "meaning": "messy or careless or slipshod",
+      "word": "slovenly "
+    },
+    "-MvExTsCe_zXMM2L-bzn": {
+      "fvt": true,
+      "meaning": "reject or relinquish or renounce or forgo",
+      "word": "abjure"
+    },
+    "-MvExisYLPG882jaWMw0": {
+      "fvt": true,
+      "meaning": "the expression of disapproval or rebuke",
+      "word": "reproach"
+    },
+    "-MvEy4z68p4ucBn7Kica": {
+      "fvt": true,
+      "meaning": "regretful or contrite",
+      "word": "penitent"
+    },
+    "-MvEyZ32NepNxt_WR66e": {
+      "fvt": true,
+      "meaning": "vanishing or fading",
+      "word": "evanescent"
+    },
+    "-MvEyo3fWE_yuJRHAF9D": {
+      "fvt": true,
+      "meaning": "as good as or equivalent",
+      "word": "tantamount"
+    },
+    "-MvEzSy-RSkj2Ydr7Sc1": {
+      "fvt": true,
+      "meaning": "tendency or disposition",
+      "word": "propensity"
+    },
+    "-MvEzf3z41vMphwOH00U": {
+      "fvt": true,
+      "meaning": "cautious",
+      "word": "wary"
+    },
+    "-MvEzzlPlUJUvKfP8oC2": {
+      "fvt": true,
+      "meaning": "assuage or reduce",
+      "word": "allay "
+    },
+    "-MvF-8OLPPUHTu47oD0J": {
+      "fvt": true,
+      "meaning": "expert",
+      "word": "connoisseur "
+    },
+    "-MvF-cEZVQeuf0OhOJ61": {
+      "fvt": true,
+      "meaning": "inconvenient or inefficient",
+      "word": "cumbersome"
+    },
+    "-MvF-stpD2AiVxG20BF3": {
+      "fvt": true,
+      "meaning": "disclose",
+      "word": "divulge"
+    },
+    "-MvF0CFltVn2id22x4WT": {
+      "fvt": true,
+      "meaning": "outdated",
+      "word": "antiquated"
+    },
+    "-MvF0oTpVUj0Ff_3WVgL": {
+      "fvt": true,
+      "meaning": "untidy hair or clothe",
+      "word": "dishevel"
+    },
+    "-MvF1lzr0Otsy3s-UH_p": {
+      "fvt": true,
+      "meaning": "strong or stubborn",
+      "word": "tenacious"
+    },
+    "-MvF2IWbdFh-7wOtxXDO": {
+      "fvt": true,
+      "meaning": "silly or stupid",
+      "word": "asinine"
+    },
+    "-MvF2vmYvfHubZP1bDso": {
+      "fvt": true,
+      "meaning": "facial expression of disgust",
+      "word": "grimace "
+    },
+    "-MvF3AdSvCvflLYeq9KG": {
+      "fvt": true,
+      "meaning": "false accusation or slander",
+      "word": "calumny"
+    },
+    "-MvF3Jo2SUBCTPcaiIPI": {
+      "fvt": true,
+      "meaning": "a small amount or inadequate ",
+      "word": "pittance"
+    },
+    "-MvF3g0EzXdSOChZnlZF": {
+      "fvt": true,
+      "meaning": "up to date",
+      "word": "au courant"
+    },
+    "-MvF4qjIeMMkAWMB2Z7k": {
+      "fvt": true,
+      "meaning": "careful or scrupulous or sedulous",
+      "word": "fastidious"
+    },
+    "-MvF5NdMhZUulzkob85r": {
+      "fvt": true,
+      "meaning": "unpleasant",
+      "word": "noisome"
+    },
+    "-MvF5h5vEOc9_LW77drC": {
+      "fvt": true,
+      "meaning": "untidy or dishevelled ",
+      "word": "unkempt"
+    },
+    "-MvVwYN77_1tMorRwnNy": {
+      "meaning": "ulterior or undisclosed",
+      "word": "ulterior"
+    },
+    "-MvVwjbiPZPACy3VAMjy": {
+      "fvt": true,
+      "meaning": "disparage",
+      "word": "vilify"
+    },
+    "-MvZ5uzmNymJxLDNYJbY": {
+      "fvt": true,
+      "meaning": "illustrate a moral or spiritual lesson",
+      "word": "parable"
+    },
+    "-MvZ6RLE4wWFmsVlIpRu": {
+      "fvt": true,
+      "meaning": "mock or parody",
+      "word": "lampoon"
+    },
+    "-MvZ6rbWWqdwosBtcaKV": {
+      "fvt": true,
+      "meaning": "tolerate or facial expression",
+      "word": "countenance"
+    },
+    "-MvZ8TPK3qgP_bhLhOma": {
+      "fvt": true,
+      "meaning": "hypocritically religious",
+      "word": "sanctimonious "
+    },
+    "-MvZ8gs3Knsd-bleEivf": {
+      "fvt": true,
+      "meaning": "calmness",
+      "word": "equanimity"
+    },
+    "-MvZArC8z2hsHwcDTW5W": {
+      "fvt": true,
+      "meaning": "boldness or nerve",
+      "word": "effrontery"
+    },
+    "-MvZB4Hiw_80fHchapQx": {
+      "fvt": true,
+      "meaning": "rude",
+      "word": "insolent"
+    },
+    "-MvZBBMtm41fqlMDMOvz": {
+      "fvt": true,
+      "meaning": "rude or irrelevant",
+      "word": "impertinent"
+    },
+    "-MvZBi1kwTkkRr6qyU4C": {
+      "fvt": true,
+      "meaning": "failure or fiasco",
+      "word": "debacle"
+    },
+    "-MvZBt5-CkKqd6W7XBme": {
+      "fvt": true,
+      "meaning": "lively",
+      "word": "vivacious"
+    },
+    "-MvZJ-HoFNDv0vAAEe2Z": {
+      "fvt": true,
+      "meaning": "lean or grim",
+      "word": "gaunt"
+    },
+    "-MvZJnN3mC6O_kQxumon": {
+      "fvt": true,
+      "meaning": "appearance or comportment or bearing or behaviour ",
+      "word": "mien"
+    },
+    "-MvZK2THj67AHzW4_a-M": {
+      "fvt": true,
+      "meaning": "hairy",
+      "word": "hirsute"
+    },
+    "-MvZKWhNHvfF8FvXnsY-": {
+      "fvt": true,
+      "meaning": "disprove or confute",
+      "word": "refute"
+    },
+    "-MvZLVLOlHLHbOWGA_lB": {
+      "fvt": true,
+      "meaning": "thoughful or thinking deeply",
+      "word": "pensive"
+    },
+    "-MvZM036-4-6psAFgjSX": {
+      "fvt": true,
+      "meaning": "sharpen or stimulate",
+      "word": "whet "
+    },
+    "-MvZMavuuqd7RIUnnQ-A": {
+      "fvt": true,
+      "meaning": "blackout or insensible condition",
+      "word": "stupor"
+    },
+    "-MvZO7MW9PWKBi11u1n5": {
+      "fvt": true,
+      "meaning": "unpleasant",
+      "word": "unsavory"
+    },
+    "-MvZORNmX1cmeZ_t6Cer": {
+      "fvt": true,
+      "meaning": "forgivable",
+      "word": "venial "
+    },
+    "-MvZP5CAfZdiWPWzDhsk": {
+      "fvt": true,
+      "meaning": "example",
+      "word": "epitome"
+    },
+    "-MvZPnQuf0ewIrHUyXAF": {
+      "fvt": true,
+      "meaning": "mastery or good hand skill ",
+      "word": "dexterity"
+    },
+    "-MvZQ62ZLdlZ64HyIdxI": {
+      "fvt": true,
+      "meaning": "ugly or deformed",
+      "word": "grotesque"
+    },
+    "-MvZR-7FlqpoJqZMla51": {
+      "fvt": true,
+      "meaning": "unacceptable",
+      "word": "repugnant"
+    },
+    "-MvZRLRLgAZ09ayRHwzr": {
+      "meaning": "pinnacle or zenith",
+      "word": "acme"
+    },
+    "-MvZRaExHOk6_4YjSjLM": {
+      "fvt": true,
+      "meaning": "ample ",
+      "word": "copious"
+    },
+    "-MvZSSP7uL1dmLRRb0Qf": {
+      "fvt": true,
+      "meaning": "false or disloyal",
+      "word": "perfidious"
+    },
+    "-MvZSgtb4ZabY-CPrjlX": {
+      "fvt": true,
+      "meaning": "want or desire",
+      "word": "covet"
+    },
+    "-MvZToBXqUMwkYJ28-OE": {
+      "fvt": true,
+      "meaning": "trying to please oneself or someone",
+      "word": "ingratiate"
+    },
+    "-MvZU2NeIIhL01Vn_ZLi": {
+      "fvt": true,
+      "meaning": "destitution",
+      "word": "penury"
+    },
+    "-MvZVRanvMHlZGRxdhEt": {
+      "fvt": true,
+      "meaning": "miserable or maximum degree",
+      "word": "abject"
+    },
+    "-MvuG2hzqciX8-OnpVpv": {
+      "fvt": true,
+      "meaning": "commitment or consistency",
+      "word": "constancy"
+    },
+    "-MwCoCFYkM0v8mzLPmZ-": {
+      "fvt": true,
+      "meaning": "list of unpleasant things",
+      "word": "litany"
+    },
+    "-MwCpFTmyEEX6ZjV8Slu": {
+      "fvt": true,
+      "meaning": "final or conclusive",
+      "word": "definitive"
+    },
+    "-MwMhfkPmWX9W3JLqC8O": {
+      "fvt": true,
+      "meaning": " typical example of a certain person or thing",
+      "word": "archetype"
+    },
+    "-MwMilb9FcE2VoXMsSOx": {
+      "fvt": true,
+      "meaning": "appear or emerge",
+      "word": "loom"
+    },
+    "-MwMrWYCUyp0r1lwQT6N": {
+      "meaning": "typical example or classic",
+      "word": "quintessential"
+    },
+    "-Mx61NjWdJBd7eKLv33A": {
+      "meaning": "honour or award or title",
+      "word": "accolade"
+    },
+    "-MxL9GBShOCK4pu-HyTC": {
+      "meaning": "anxiety or fear",
+      "word": "agnst"
+    },
+    "-MzFxJBY5o9QnzZAPgjd": {
+      "meaning": "change or adjust",
+      "word": "amend"
+    },
+    "-N16QKVSofaK5fF1qRk5": {
+      "meaning": "recover or regain",
+      "word": "recuperate"
+    }
+  }
+}

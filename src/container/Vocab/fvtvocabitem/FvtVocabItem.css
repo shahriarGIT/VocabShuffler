@@ -81,6 +81,11 @@
   fill: rgb(219, 8, 8);
 }
 
+.fvt_icon_belete:hover {
+  fill: rgb(219, 8, 8);
+  transform: scale(1.2);
+}
+
 /* .fvt--icon--delete--active {
   fill: rgb(219, 8, 8);
 } */

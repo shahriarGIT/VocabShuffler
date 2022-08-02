@@ -1,5 +1,9 @@
+import "./message.css";
+
 export const successMessage = (success, msg) => {
-  if (success) return <div>{msg}</div>;
+  // setTimeout(() => {
+  if (success) return <div className="message__success">{msg}</div>;
+  // }, 300);
 };
 
 export const errorMessage = (error, msg) => {

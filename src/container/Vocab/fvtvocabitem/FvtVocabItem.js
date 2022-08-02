@@ -2,11 +2,13 @@ import "./FvtVocabItem.css";
 import { AiOutlineHeart } from "react-icons/ai";
 import { FiHeart } from "react-icons/fi";
 import { TiDelete } from "react-icons/ti";
+import { useSelector } from "react-redux";
 
 const FvtVocabItem = (props) => {
   //   const fvtVocab = () => {
   //     alert("Fvt");
   //   };
+  const items = useSelector((state) => state);
 
   return (
     <div className="item__container">
@@ -17,9 +19,9 @@ const FvtVocabItem = (props) => {
       <div className="btn_container">
         <button className="fvt__button">
           <TiDelete
-            onClick={() => props.remove(props.id)}
+            onClick={() => props.remove(props.id, props.UID)}
             className="fvt_icon_belete"
-            size={20}
+            size={21}
           />
         </button>
       </div>

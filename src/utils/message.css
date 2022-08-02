@@ -1,0 +1,26 @@
+.message__success {
+  position: fixed;
+  top: 0.8rem;
+  left: 20vw;
+  border: 2px solid rgb(0, 0, 0);
+  background-color: rgb(228, 228, 228);
+  width: 60%;
+  height: 4rem;
+  display: inline-block;
+  font-size: 1rem;
+  border-radius: 5px;
+  padding: 1rem;
+  z-index: 10000;
+  font-size: 1.2rem;
+  font-weight: 500;
+  animation: messageAnimation 0.5s ease;
+}
+
+@keyframes messageAnimation {
+  0% {
+    top: -5rem;
+  }
+  100% {
+    top: 0.8rem;
+  }
+}

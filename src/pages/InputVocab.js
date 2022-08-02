@@ -1,11 +1,11 @@
 import React, { Fragment } from "react";
 import { useDispatch } from "react-redux";
-import "./InputVocab.css";
 import { useFormik } from "formik";
 import {
   addNewVocabToFirebase,
   fetchVocabs,
 } from "../redux/vocabActionsCreators";
+import "./Login.css";
 
 const initialValues = {
   word: "",
@@ -15,7 +15,7 @@ const initialValues = {
 
 const onSubmit = (value) => {
   console.log(value);
-  addNewVocabToFirebase(value);
+  if (value.code === "code@vocab@") addNewVocabToFirebase(value);
 };
 
 const fetchLatestVocabs = (dispatch) => {
@@ -50,9 +50,9 @@ const InputVocab = () => {
   });
 
   return (
-    <Fragment>
-      <form onSubmit={formik.handleSubmit} className="form__container">
-        <div className="form__div">
+    <div className="login__input__container">
+      <form onSubmit={formik.handleSubmit} className="login__form__container">
+        <div className="input__form__div">
           <input
             type="text"
             id="word"
@@ -67,7 +67,7 @@ const InputVocab = () => {
             <p className="input__error">{formik.errors.word}</p>
           ) : null}
         </div>
-        <div className="form__div">
+        <div className="input__form__div">
           <input
             type="text"
             id="meaning"
@@ -83,9 +83,9 @@ const InputVocab = () => {
           ) : null}
         </div>
 
-        <div className="form__div">
+        <div className="input__form__div">
           <input
-            type="text"
+            type="password"
             id="code"
             name="code"
             className="form__input"
@@ -107,7 +107,7 @@ const InputVocab = () => {
           Submit
         </button>
       </form>
-    </Fragment>
+    </div>
   );
 };
 

@@ -1,20 +1,15 @@
-.input__container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 1rem;
-  margin-top: 7rem;
+.login__input__container {
+  text-align: center;
+  max-width: 50rem;
+  margin: 8rem auto;
+  /* margin-bottom: 0; */
 }
 
-.form__container {
-  text-align: center;
-  padding: 2rem;
-  border: 1px solid black;
-  border-radius: 0.5rem;
-  width: 55rem;
-  min-width: 20rem;
-  /* background-color: rgb(184, 145, 255); */
+.login__form__container {
+  border-radius: 1rem;
+  border: 1px black solid;
+  margin: 1rem;
+  padding: 1.3rem 1rem;
 
   background: -moz-linear-gradient(
     180deg,
@@ -54,30 +49,33 @@
   );
 }
 
-.form__input {
-  display: block;
-  width: 90%;
-  margin: 1.8rem auto;
-  height: 2.7rem;
-  border-radius: 0.5rem;
+.input__form__div {
+  /* background-color: red; */
   padding: 0.5rem;
+  position: relative;
+
+  /* font-size: 1rem; */
+  /* font-weight: 600; */
+  /* outline: none; */
+  /* letter-spacing: 0.4px; */
+}
+
+.form__input {
+  width: 80%;
+  margin-top: 1.2rem;
+  border-radius: 0.3rem;
   font-size: 1rem;
   font-weight: 600;
   outline: none;
   letter-spacing: 0.4px;
-  position: relative;
-}
-
-.form__div {
-  position: relative;
+  padding: 0.4rem 1rem;
 }
 
 .submit__button {
   font-size: 1.2rem;
-  width: 8rem;
-  padding: 0.5rem;
+  padding: 0.5rem 1.5rem;
   border-radius: 0.5rem;
-  margin-top: 0.8rem;
+  margin-top: 1.4rem;
   background-color: rgb(68, 118, 255);
   color: white;
   outline: none;
@@ -85,21 +83,11 @@
 
 .submit__button:hover {
   background-color: rgb(40, 96, 252);
-}
-
-.input__error {
-  padding: 0;
-  margin: 0;
-  color: rgba(243, 0, 0, 0.849);
-  font-size: 1.1rem;
-  font-weight: 500;
-  position: absolute;
-  bottom: -1.5rem;
-  left: 6%;
+  color: black;
 }
 
 .signup__container {
-  margin-top: 3rem;
+  margin-top: 4rem;
 }
 
 .signup__button {
@@ -114,4 +102,16 @@
 
 .signup__button:hover {
   background-color: rgb(99, 6, 186);
+}
+
+.input__error {
+  padding: 0;
+  margin: 0;
+  color: rgba(243, 0, 0, 0.849);
+  font-size: 1.1rem;
+  font-weight: 500;
+  bottom: -1.5rem;
+  left: 13%;
+  bottom: -1rem;
+  position: absolute;
 }

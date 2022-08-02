@@ -5,7 +5,14 @@ export const FETCH_VOCAB_LOADING = "FETCH_VOCAB_LOADING";
 export const START_FLASHCARD = "START_FLASHCARD";
 export const END_FLASHCARD = "END_FLASHCARD";
 
+export const FETCH_FVT_VOCAB = "FETCH_FVT_VOCAB";
 export const ADD_FVT_VOCAB = "ADD_FVT_VOCAB";
 export const REMOVE_FVT_VOCAB = "REMOVE_FVT_VOCAB";
 
 export const ADD_VOCAB = "ADD_VOCAB";
+
+export const AUTH_SUCCESS = "AUTH_SUCCESS";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const AUTH_LOADING = "AUTH_LOADING";
+
+export const RESET_STORE = "RESET_STORE";

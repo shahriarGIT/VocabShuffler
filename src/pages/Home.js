@@ -1,11 +1,13 @@
 import { Fragment } from "react";
-import Layout from "../container/ui/Layout";
+
 import { useEffect } from "react";
 import { useDispatch } from "react-redux";
 import { fetchVocabs } from "../redux/vocabActionsCreators.js";
 
 import "./Home.css";
 import quoteImg from "../assets/bg-pattern-quotation.svg";
+
+import useStatus from "../hooks/useStatus";
 
 const Home = () => {
   const dispatch = useDispatch();

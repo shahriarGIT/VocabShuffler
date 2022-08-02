@@ -1,30 +1,29 @@
 import { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import VocabItem from "../container/Vocab/vocabitem/VocabItem";
 import FvtVocabItem from "../container/Vocab/fvtvocabitem/FvtVocabItem";
 
 import Clip from "../assets/clip.png";
 import Man from "../assets/chairman.png";
 import "./FavoriteVocabs.css";
-import { fetchVocabs } from "../redux/vocabActionsCreators.js";
-import { removeFvtVocab } from "../redux/vocabActionsCreators";
+import {
+  fetchVocabs,
+  removeFvtVocab,
+  getFvtVocabs,
+} from "../redux/vocabActionsCreators.js";
+import useStatus from "../hooks/useStatus";
 
 const FavoriteVocabs = () => {
   const items = useSelector((state) => state);
-  const arr = items.vocab.filter((item) => item.fvt === true);
-
+  const { user: loggedUser } = useStatus();
   const dispatch = useDispatch();
   useEffect(() => {
-    if (items.vocab.length === 0) {
-      dispatch(fetchVocabs());
+    if (items.fvtVocab.length === 0) {
+      dispatch(getFvtVocabs(loggedUser?.uid));
     }
+  }, [loggedUser]);
 
-    console.log(items, "from reducer");
-  }, []);
-  console.log(arr);
-
-  const deleteFvtVocab = (id) => {
-    dispatch(removeFvtVocab(id));
+  const deleteFvtVocab = (id, uid) => {
+    dispatch(removeFvtVocab(id, uid));
   };
 
   return (
@@ -32,12 +31,13 @@ const FavoriteVocabs = () => {
       <h2 className="container__headline">Fvt Vocabs</h2>
       <img className="clip__image" src={Clip} />
       <img className="man__image" src={Man} />
-      {arr.map((item) => {
+      {items.fvtVocab.map((item) => {
         return (
           <FvtVocabItem
             remove={deleteFvtVocab}
-            id={item.id}
-            key={item.id}
+            id={item._id}
+            UID={loggedUser?.uid}
+            key={item._id}
             word={item.word}
             meaning={item.meaning}
           />
