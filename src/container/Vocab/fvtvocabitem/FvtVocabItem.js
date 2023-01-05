@@ -5,9 +5,6 @@ import { TiDelete } from "react-icons/ti";
 import { useSelector } from "react-redux";
 
 const FvtVocabItem = (props) => {
-  //   const fvtVocab = () => {
-  //     alert("Fvt");
-  //   };
   const items = useSelector((state) => state);
 
   return (
